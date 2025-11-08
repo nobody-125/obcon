@@ -1,2 +1,2 @@
 # Obsidian Repository
-Personal repository for notes made in Obsidian.
+Personal repository for notes made in Obsidian
