@@ -1,0 +1,2 @@
+PRODUCTION POSSIBILITY FRONTIER, or PPF, is a measure of outputs possible given limited resources. PPF presents us with trade-offs where an agent gives up one thing to get more of another. Imagine a scenario with two goods, good $X$ and good $Y$. Let's assume that in 1 hour, an agent can obtain either 15 of good $X$ or 30 of good $Y$. The opportunity cost of one of $Y$ is 2 $X$. 
+## Specialization
