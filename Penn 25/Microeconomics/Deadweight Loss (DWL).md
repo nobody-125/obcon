@@ -1,8 +1,8 @@
 Deadweight loss is a loss of total surplus relative to a Pareto-efficient allocation. A market is usually pareto-efficient at **equilibrium,** where both parties are maximizing utility; it is the price and quantity at which it is impossible to improve utility of both buyers and sellers. If sellers were to increase price, it would be at the cost of the buyer, and if the buyer were to purchase at a lower price, it would be at the cost of the seller.
 ### Price Controls
 * Efficiency is achieved at the intersection between demand and marginal cost (MC).  The first figure illustrates DWL as a result of underproduction, the second as a result of overproduction.
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022141349.png]]
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022141427.png]]
+![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022141349.png]]
+![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022141427.png]]
 ##### Shortcuts
 * **Deadweight loss appears as an arrowhead pointed at efficient quantity** This will make it easier to identify DWL. 
 * **Quantity is the superior measure for DWL** Since deadweight loss is a measure of consequences for producing the inefficient quantity of goods, price is less relevant to calculating DWL.

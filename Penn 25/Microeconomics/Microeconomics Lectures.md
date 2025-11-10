@@ -1,5 +1,27 @@
 CONTACT: econ-0100@sas.upenn.edu
-# Econ Lecture 7-10
+# Econ Lecture 01
+### Introduction
+- Study of consumer behavior & choice
+- Market structures and market failures
+- Economic efficiency
+- Supply/demand
+- Govt. intervention and policy questions
+### Opportunity Cost
+- In an isolated scenario where one is provided multiple mutually exclusive choices, there exists choices which each have differing "values" that represent the utility or benefit they provide to one party.
+- **Opportunity cost** is direct monetary cost plus the _net benefit_ of the next best alternative (e.g., the choice which has the 2nd highest value).
+- The mutually exclusive nature of this choice means that there will be a trade-off, regardless of what choice one makes, since you're always sacrificing other choices for the one that you make
+##### Cost-benefit
+- The cost-benefit analysis rationalizes what the best mutually exclusive choice is through the principle that the benefits of a choice are greater than or equal to its opportunity cost.
+# Econ Lecture 02
+
+## Consumer Preference
+
+- If two services or goods are available at no cost or identical cost, how would the consumer rank the goods?
+- Refer: Lecture 2-6 Canvas .PPTX, figure 1.
+    - Assumption that consumers are rational.
+    - If a consumer is rational, more is better.
+    - Transitivity: $(F>C)\land(C>J)\rightarrow F>J$.
+# Econ Lecture 07-10
 ### Profit
 * Profit (pi) represented by total revenue minus total cost
 * **Marginal revenue and marginal cost** tells if firms should increase or decrease output to increase profit:
@@ -7,7 +29,7 @@ CONTACT: econ-0100@sas.upenn.edu
 	* if MR exceeds MC, profit will increase
 	* **Profit is maximized at $MR=MC$.
 ##### Marginal Revenue
-* According to [[obconfig/Linux-Unix/Penn 25/Microeconomics/Principles of Elasticity]], demand is unit-elastic (assuming linear demand curve). At the midpoint, marginal revenue is zero. Above this point, demand will be elastic and marginal revenue positive, below, demand will be inelastic and marginal revenue negative.
+* According to [[obcon/Penn 25/Microeconomics/Principles of Elasticity|Principles of Elasticity]], demand is unit-elastic (assuming linear demand curve). At the midpoint, marginal revenue is zero. Above this point, demand will be elastic and marginal revenue positive, below, demand will be inelastic and marginal revenue negative.
 ##### Demand
 * **Elasticity** affects demand; more sellers leads to more elasticity because there are a greater number of substitutes
 * However, since products remain differentiated, demand will never be perfectly elastic, unless if all firms sell identical products.
@@ -22,7 +44,7 @@ $$
 	* Entry will continue until profits are zero, **when demand is tangent to ATC.**
 	
 ### Maximizing Efficiency
-See: [[Deadweight Loss (DWL)]]; [[obconfig/Linux-Unix/Penn 25/Microeconomics/Economic Surplus]].
+See: [[Deadweight Loss (DWL)]]; [[obconfig/Linux-Unix/Penn 25/Microeconomics/Economic Surplus|Economic Surplus]].
 # Econ Lecture 11
 ### Changes in Supply
 * Fixed costs do not change marginal cost: FC cannot affect supply
@@ -32,7 +54,7 @@ See: [[Deadweight Loss (DWL)]]; [[obconfig/Linux-Unix/Penn 25/Microeconomics/Eco
 * The law of supply is an economic principle stating that as the price of a good or service increases, the quantity supplied by producers also increases, and vice versa. 
 * This relationship creates an upward-sloping supply curve, reflecting how producers respond to price changes to maximize profits.
 ##### Elasticity of Supply
-*Price elasticity of supply* measures the responsiveness of producers to a change in price; E=Q/ChangeInP
+*Price elasticity of supply* measures the responsiveness of producers to a change in price; $E^S=\frac{\Delta Q}{\Delta P}$
 ##### Market Equilibrium
 Most affordable purchasing point for buyer while remaining rational for sellers to sell
 Quantity of supply = quantity demand 
@@ -56,10 +78,10 @@ Short-run change: e.g., petrol prices - reflecting change in supply and demand
 * **[[Deadweight Loss (DWL)]]:** The reduction in **total surplus** that occurs as a result of market inefficiency.
 ##### Effective Controls
 * Only a price ceiling that forces price below equilibrium will have any effect, as depicted in the graph below:
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022141956.png]]
+![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022141956.png]]
 * **Deadweight loss is greater** when supply-demand is elastic.
 * Likewise, price floors are only effective when they force price above equilibrium:
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022142159.png]]
+![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022142159.png]]
 ##### Disequilibrium
 Calculating disequilibrium assumes the following knowledge:
 * Price floor/ceiling
@@ -73,8 +95,7 @@ Substitute price floor/ceiling for the price in the supp/demand equations. Diseq
 * Taxes and subsidies
 * Trade
 ### Taxes
-Taxes create a difference between price paid by buyers and price received by sellers: 
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022123215.png]]
+Taxes create a difference between price paid by buyers and price received by sellers. Depending on who the tax is levied on, it is represented by $P_b-P_s$ or $P_s-P_b$.
 # Econ Lecture 14 (Taxes & Subsidies, 2025-10-22)
 ### Tax Incidence 
 * **Tax incidence** refers to who bears the burden of the tax
@@ -95,7 +116,7 @@ Taxes create a difference between price paid by buyers and price received by sel
 * **Subsidies** are the opposite of a tax since they harm government revenue and are of benefit to consumers/business
 * The government invests money in the market to encourage activity in the sector: the federal government can subsidize high-speed rail in a state to expedite/aid construction, or subsidize research and development at a university
 * Creates a wedge between the price sellers keep and consumers pay
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022123929.png]]
+Subsidies are calculated in a manner similar to how taxes are.
 ##### Comparison to Tax on Buyers
 * A tax would generally shift the consumer demand curve left/down
 * A subsidy given to buyers shifts demand right/up, creating a new equilibrium quantity which has a higher price for sellers.
@@ -105,18 +126,18 @@ Taxes create a difference between price paid by buyers and price received by sel
 * A subsidy given to sellers shifts the seller supply curve right/down
 * Buyers now pay a lower price, but sellers receive more since they are subsidized by the government
 ##### Effect on Surplus
-* [[obconfig/Linux-Unix/Penn 25/Microeconomics/Economic Surplus]] is consumer surplus triangle (CS) + producer surplus (PS)
+* [[obcon/Penn 25/Microeconomics/Economic Surplus|Economic Surplus]] is consumer surplus triangle (CS) + producer surplus (PS)
 * **Consumer Surplus:** Upper triangle will expand because of subsidy, increasing CS
 * **Producer Surplus:** Area below the price received, will massively expand
 * This means that both the CS and PS triangles will actually overlap, this overlapping area is what is subsidized by the government.
 * The overlapping area represents gov't expenditure
 ##### Surplus Represented by Graph
-![[obconfig/Linux-Unix/Penn 25/Microeconomics/Files/Pasted image 20251022125128.png]]
+![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022125128.png]]
 * Observe that consumer surplus before would be A+ the area between the equilibrium latitude, now it is A+B+E after the subsidy. Likewise, producer surplus would be expanded from C+ the area between equilibrium attitude.
-* **TS=A+B+E+B+C+D=A+2B+C+D,** subtract the government subsidy cost to get the actual TS of A+B+C-F
+* $TS=A+B+E+B+C+D=A+2B+C+D$, subtract the government subsidy cost to get the actual TS of $A+B+C-F$
 * Area F represents DWL from the subsidy
 * DWL is generated because we've moved away from the efficient quantity.
-### Top Hat 
+### Attendance 
 Suppose that the perfectly competitive market for apples has a downward sloping demand and upward sloping supply. Suppose that supply is more elastic than demand. If the government provides a per-unit subsidy to apple farmers, which of the following statements must be true?  
   
 I. Quantity of apples consumed increases  
