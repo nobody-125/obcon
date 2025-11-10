@@ -16,7 +16,7 @@ When using `ls -l`, *d* represents that an entry is a directory
 * w represents a value of 2
 * x represents a value of 1
 For instance, a file with permissions `-rw-r-x---` has a permission value of `650`. `rw-=4+2; r-x=5,---=0`.
-Or we can go the other way around. A file with permission value of `770` means that both the file **[[OWNER]] and [[GROUPS]]** associated with the file have the permission to read, write and execute, but all other users cannot.
+Or we can go the other way around. A file with permission value of `770` means that both the file **[[User Permissions|OWNER]] and [[User Permissions#Groups|GROUPS]]** associated with the file have the permission to read, write and execute, but all other users cannot.
 ## Modding File Permissions
 File permissions are managed using ``chmod``:
 * `chmod ug+rwx example.txt`: Grants all three permission types to a file **for the user and group (ug).**

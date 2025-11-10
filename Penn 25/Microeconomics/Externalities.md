@@ -1,0 +1,1 @@
+EXTERNALITIES are the side effects generated from an exchange or activity, these can be either positive or negative.

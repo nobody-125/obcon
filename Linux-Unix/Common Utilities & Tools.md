@@ -4,7 +4,7 @@
 * ``pacman -Qdtq | pacman -Rns -``: Remove orphan packages
 * ``pacman -Qqd | pacman -Rsu --print -``: Ibid.
 ## Gentoo Linux
-* `emerge -av <PACKAGE_REPO>/<PACKAGE>`: Install package from specific repository
+* `emerge -av <PACKAGE_REPO>/<PACKAGE>`: Install package from specific repository, provides verbose description and requires confirmation
 ## Shell Commands
 #### Filesystem mgmt.
 * `cp`: Copy/paste
@@ -22,4 +22,5 @@
 * `touch`: Create a file
 *  `whereis` shows full path of (shell) commands
 ## Transferring Data
-* `curl`: transfer a URL
+* `curl`: transfer data from the internet
+* `wget`: transfer data from websites
