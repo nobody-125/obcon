@@ -30,3 +30,5 @@
 * Public architecture similarly illustrates Pompeiian appreciation for Greek culture
 	* **The Forum:** Central political/commercial hub, containing administrative buildings and an area for trade
 	* **Amiptheater:** Built in 70 BC, served 20,000 spectators of gladitorial contests, illustrating the emphasis on physical strength and competition
+
+## Week 11 (2025-11-10)

@@ -29,7 +29,7 @@ CONTACT: econ-0100@sas.upenn.edu
 	* if MR exceeds MC, profit will increase
 	* **Profit is maximized at $MR=MC$.
 ##### Marginal Revenue
-* According to [[obcon/Penn 25/Microeconomics/Principles of Elasticity|Principles of Elasticity]], demand is unit-elastic (assuming linear demand curve). At the midpoint, marginal revenue is zero. Above this point, demand will be elastic and marginal revenue positive, below, demand will be inelastic and marginal revenue negative.
+* According to [[obcon/Penn 25/Microeconomics/Principles of Elasticity|PRINCIPLES OF ELASTICITY]], demand is unit-elastic (assuming linear demand curve). At the midpoint, marginal revenue is zero. Above this point, demand will be elastic and marginal revenue positive, below, demand will be inelastic and marginal revenue negative.
 ##### Demand
 * **Elasticity** affects demand; more sellers leads to more elasticity because there are a greater number of substitutes
 * However, since products remain differentiated, demand will never be perfectly elastic, unless if all firms sell identical products.
@@ -44,7 +44,7 @@ $$
 	* Entry will continue until profits are zero, **when demand is tangent to ATC.**
 	
 ### Maximizing Efficiency
-See: [[Deadweight Loss (DWL)]]; [[obconfig/Linux-Unix/Penn 25/Microeconomics/Economic Surplus|Economic Surplus]].
+See: [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] and [[obcon/Penn 25/Microeconomics/Economic Surplus|ECONOMIC SURPLUS]].
 # Econ Lecture 11
 ### Changes in Supply
 * Fixed costs do not change marginal cost: FC cannot affect supply
@@ -126,11 +126,11 @@ Subsidies are calculated in a manner similar to how taxes are.
 * A subsidy given to sellers shifts the seller supply curve right/down
 * Buyers now pay a lower price, but sellers receive more since they are subsidized by the government
 ##### Effect on Surplus
-* [[obcon/Penn 25/Microeconomics/Economic Surplus|Economic Surplus]] is consumer surplus triangle (CS) + producer surplus (PS)
+* [[obcon/Penn 25/Microeconomics/Economic Surplus|ECONOMIC SURPLUS]] is the consumer surplus triangle (CS) + producer surplus (PS) ($CS+PS$)
 * **Consumer Surplus:** Upper triangle will expand because of subsidy, increasing CS
 * **Producer Surplus:** Area below the price received, will massively expand
-* This means that both the CS and PS triangles will actually overlap, this overlapping area is what is subsidized by the government.
-* The overlapping area represents gov't expenditure
+* This means that both the CS and PS triangles will overlap, this overlapping area is what is subsidized by the government.
+* The result is that the overlapping area represents gov't expenditure.
 ##### Surplus Represented by Graph
 ![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022125128.png]]
 * Observe that consumer surplus before would be A+ the area between the equilibrium latitude, now it is A+B+E after the subsidy. Likewise, producer surplus would be expanded from C+ the area between equilibrium attitude.
@@ -148,3 +148,5 @@ III. There will be a deadweight loss
 # Econ Lecture 15 (Trade, 2025-10-27)
 ~
 # Econ Lecture 16 (Trade, 2025-10-29)
+~
+# Econ Lecture 17 (Externalities, 2025-11-10)
