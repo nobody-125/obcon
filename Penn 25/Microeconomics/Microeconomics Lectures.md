@@ -149,4 +149,11 @@ III. There will be a deadweight loss
 ~
 # Econ Lecture 16 (Trade, 2025-10-29)
 ~
-# Econ Lecture 17 (Externalities, 2025-11-10)
+# Econ Lectures 17-18 (Externalities, 2025-11-10)
+## Externalities
+See: [[Externalities]].
+### Attendance
+Consider the market for umbrellas in Rainy island, where demand  is $P = 30 - 2Q_D$, and supply is $P = Q_S$. The price of each umbrella on the global market is $6. If Rainy island imposes a tariff $t=4$ per unit, how much tariff revenue will that generate?
+* $30-2Q_d=Q_s$, therefore, $3Q=30$ and $Q=10; P=10$
+* A tariff of $4 per unit would make imports the same price as purchasing domestically
+* Zero tariff revenue will be generated
