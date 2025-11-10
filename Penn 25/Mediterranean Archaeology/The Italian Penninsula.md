@@ -32,3 +32,74 @@
 	* **Amiptheater:** Built in 70 BC, served 20,000 spectators of gladitorial contests, illustrating the emphasis on physical strength and competition
 
 ## Week 11 (2025-11-10)
+### *Hopkins, Colosseum*
+
+##### Remarks by Mark Twain
+* It is difficult to determine the "high emotional writing" that Twain had in mind regarding the Colosseum and its gladiatorial games. Twain declared he was the 'only free white man of mature age' who had written about the monument since Byron without quoting the poet's phrase about the Colosseum being "butchered" to make a Roman holiday.
+* Twain believed he was the first person to see the quote in print about seventeen or eighteen thousand times, suggesting it had grown tiresome.
+* While Twain had a point, addressing the rhetoric of the response does not solve the underlying dilemma for the nineteenth-century visitor: how to reconcile the murderous games with the magnificence of the Colosseum.
+##### Modern Relevance
+* The **dominant central cross indulgences and the Friday sermon** emphasize the Colosseum as a powerful intersection between the ancient world and the modern religious world. The Pope still visits every year to perform the rituals of Good Friday.
+* The modern era has even less peace and quiet than the nineteenth century:
+	* The roughly 3 million visitors annually today far surpass the numbers of those who enjoyed a moonlit walk through the arena in the nineteenth century.
+	* Modern tourists are served by an industry that substitutes illuminated plastic, candy, and fridge-magnets for the dried flowers that a historical Handbook deemed appropriate souvenirs.
+* Twentieth-century tourism is both similar to and different from the experience of tourists a hundred and fifty years ago: There is no regular moonlight access or private floodlighting on request today. A **'modernist lift'** has replaced the old staircase, granting access to the upper floors. Tourists can no longer climb to the topmost level but must make do with a fabulous view from short of half the way up.
+##### Origin and Construction
+* Nero's Lake was a site rediscovered in the sixteenth century. The original Golden House included a dining room with a revolving ceiling and a colossal bronze statue (likely Nero himself), about 30 meters tall.
+	* The statue stood next to a private lake, surrounded by buildings representing cities. Recent excavation suggests the lake was a relatively small, formal affair, contrary to the ancient report that it was 'more like a sea'.
+	* Vespasian took advantage of the empty, devastated land left by the Great Fire of Rome in A.D. 64. The Colosseum was founded on the site of Nero's infamous private lake This was meant to be a **brilliant political gesture** intended to obliterate Nero's memory.
+	* Martial marked the opening of the building in A.D. 80. Vespasian died in A.D. 79 and did not see the final completion.
+* The inscription, dedicated in honor of Titus, was found to have originally carried a different text, reconstructed from dowel holes, and suggests the Colosseum was built with money from the spoils of the Jewish rebellion.
+	* This point is emphasized by **extant Jewish inscriptions** in the Colosseum, or possibly the absence of non-existent Jewish inscriptions. (The source structure here is complex, noting an ingenuity in recent discovery of an inscribed block).
+	* The inscribed block of stone lay around in the arena for centuries, serving as a resting place for Victorian tourists.
+##### Political Purpose and Spectator Hierarchy
+* • The Colosseum was an innovation of a **permanent amphitheatre**, a novel concept at the time since most games were shown at temporary, wooden theatres.
+* The sight of Nero's new amphitheatre left the elite (senatorial class) lacking the mechanical sophistication of the mob. Gatherings, even for pleasure, implied a dangerous commodity in the eyes of the elite.
+* The dangerous commodity significantly changed with the Colosseum, designed to appease the urban mob and the Roman emperor.
+	* By the mid-first century BC, the Republican system had imploded, culminating in the one-man rule of Julius Caesar.
+	* Under the emperors, the bulk of the city took on new scale and permanence. Elections were instantly replaced by the Emperor and his nominees.
+
+The Colosseum, as the largest covered building in Rome, featured covered seating for the Vestal Virgins, the empress, and Augustus. It would serve as a "brilliantly constructed and enclosed world" that packed the emperor, elite, and subjects together "like sardines in a tin". Spectators were **hierarchically ordered by status**: higher ranks sat near the front, and the masses sat at the back. This arrangement forced spectators to acknowledge each other.
+* The emperor was expected to be cheered by ovations. The emperor would occasionally shower the spectators with gifts, often following the prospect of violent death.
+##### The Opening Events (A.D. 80) and Naval Battles
+* Titus officially opened the new emperor in A.D. 80. The opening included an extravaganza of fighting, beast hunts, and bloodshed. Titus' biographer, Suetonius, claimed that thousands were killed during these celebrations (not necessarily within the Colosseum itself). Modern scholars suggest the estimated half a million animals killed referred to 'on every single day' of the performance. Dio writes about 9000 animal deaths, acknowledging the difficulty of calculating the correct tally.
+	* Dio states that **Titus suddenly filled the arena with water** and brought in horses and bulls taught to swim. The context suggests the water displays actually took place in a different, purpose-built location.
+* The naval battle involved 3000 men and was staged in a **special facility constructed by the first emperor Augustus**.
+* The basement of the arena could not be waterproofed because it was constructed of travertine stone. The basement was built first, before the complex machinery, which allowed for the _option_ of flooding.
+##### Gladiatorial Dramatics and Cruelty
+* The public amphitheatre replaced Nero's private one. Dio records animals fighting each other (e.g., elephants versus rhinoceroses) and animals fighting humans.
+* Martial recorded the opening in _The Book of the Shows_ and referred to the scenes as **"exquisite inventiveness of cruelty"**.
+* The opening celebrations drew a distinction between the Roman citizen and the masked ranks of foreigners. The foreigners included the exotic polyglot crowd from Northern Greece, Samaritans, Syrians, Germans, and Ethiopians. These foreigners often sported a different style of cruelty, such as quasi-judicial fighting.
+* Punishment was sometimes induced by condemnation to the games: Tertullian, a Christian writer, described criminals being picked out as actors in a play, such as a man crucified after being 'turned alive' by a bear. Martial focused on the crucifixion of the legendary bandit **Laureolus**, who was murdered by a bear imported from Scotland.
+* Apuleius' novel _The Golden Ass_ tells of a hero condemned to lose his life by forced intercourse with an ass in the amphitheatre, an event often interpreted as a fantastical or magical accident.
+
+##### Economics and Scheduling
+* The regular performances were not sponsored by the Emperor, but instead aristocrats. These Colosseum shows fed a popular image of sadistic excess, however, legislation limited the number of gladiators an 'ordinary' aristocrat could present.
+* **Symmachus**, a defender of traditional Roman religion, spent 2000 pounds of gold on shows. This sum was enough to feed nearly 20,000 peasant families for a year. His letter provides factual details about the expense and troubles of acquiring animals, noting that bear cubs acquired were sometimes emaciated, and also mentions 29 gladiators who strangled each other the evening before their performance.
+* Fourth-century A.D. calendars suggest only **ten days were devoted to gladiatorial games** (compared to four for theatrical shows and sixty-four for chariot racing).
+* The sequence of the day's events was fixed by rule or custom:
+	* Morning: Wild animal hunts (exotic species vs. trained marksmen/hunters).
+	* Lunch Break: Public executions (mythological forms or "just plain killing").
+	* Afternoon: Gladiatorial bouts proper.
+##### Gladiatorial Combat and Ritual
+* Gladiators usually fought in pairs, supervised by trainers and umpires. Stretcher bearers (dressed as gods of the Underworld) removed the dead and wounded.
+* Victors were handsomely rewarded with fame and lavish presents from the sponsor, but the wounded or defeated gladiator were at the mercy of the audience:
+	* The gladiator signaled surrender by holding up his little finger.
+	* The crowd voiced their preference for killing or sparing by putting their thumbs up or down. Many of the _ombobes_ (spectators) probably had a vested interest in the outcome, having placed bets the night before.
+	* However, the final decision to kill or spare was up to the sponsor.
+* Roman gladiatorial combat was characterized by exposed bare flesh, making the fighters visibly vulnerable. The types of gladiators were indicated by carefully distinguished titles, but matching up gladiator titles with visual images (sculpture, graffiti, paintings, mosaics) is difficult.
+* The visual evidence is the only way historians have hoped to work out the details of costume and fighting methods.
+	* The helmet for the _secutor_ (Pursuer) covered the whole face except for two tiny eye-holes
+	* Helmets with a broad brim were probably worn by _Thracians_ and _murmillones_
+	* The general absence of fish emblems suggests the overall 'fish' shape gave the _murmillo_ his title
+	* Ancient artists found nets a tricky subject to represent
+* It is difficult to determine the exact difference between early fighter types, such as whether the Thracian was the same as a _hoplomachus_.
+* A startling, frequently reproduced image is a unique bronze **trimallium** (bell chimes) from Herculaneum. The figure is a gladiator attacking his elongated penis, which is half-transformed into a panther or wolf. This figure is considered an apt icon for the Roman cosmology of desire. This creature bears little resemblance to other gladiator images and may have been a theatrical or mime artist, rather than a gladiator in the strict sense.
+
+##### Reconstruction of the Programme
+* Gladiators were allowed to wear display kit, which may have allowed the imagination of British university students wearing gowns and mortar boards for graduation.
+* Modern students of Roman culture often combine multiple ancient references—a first-century letter, a history aside, a Roman satirist's joke, and a Christian propagandist's comment—to create a reconstructed 'programme'.
+* This reconstruction often mistakenly applies events that occurred at the Circus Maximus or other amphitheatres to the Colosseum
+* Seneca wrote a letter concerned with the 'moral dangers' of crowds before the Colosseum was built.
+
+The sources essentially treat the history of the Colosseum like an archaeological dig itself, starting with modern perceptions (Twain, tourism), moving through the physical evidence (foundations, inscriptions), detailing the political reasons for its creation (Nero vs. Vespasian), and finally dissecting the specific, often confused, details of the performances (naval battles, gladiator categories, and the famous, likely misattributed, dying salute).
