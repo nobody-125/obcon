@@ -20,5 +20,6 @@ For instance, when an effective price ceiling is imposed in housing (rent contro
 $$
 DWL=\frac{1}{2} \times (P_d-P_s)(Q_e-Q_s)
 $$
+DWL is also calculated as the area of the triangle when graphed.
 ### DWL from Free Trade
 ~
