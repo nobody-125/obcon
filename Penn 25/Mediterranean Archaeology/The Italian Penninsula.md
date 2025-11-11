@@ -72,7 +72,6 @@ The Colosseum, as the largest covered building in Rome, featured covered seating
 * The opening celebrations drew a distinction between the Roman citizen and the masked ranks of foreigners. The foreigners included the exotic polyglot crowd from Northern Greece, Samaritans, Syrians, Germans, and Ethiopians. These foreigners often sported a different style of cruelty, such as quasi-judicial fighting.
 * Punishment was sometimes induced by condemnation to the games: Tertullian, a Christian writer, described criminals being picked out as actors in a play, such as a man crucified after being 'turned alive' by a bear. Martial focused on the crucifixion of the legendary bandit **Laureolus**, who was murdered by a bear imported from Scotland.
 * Apuleius' novel _The Golden Ass_ tells of a hero condemned to lose his life by forced intercourse with an ass in the amphitheatre, an event often interpreted as a fantastical or magical accident.
-
 ##### Economics and Scheduling
 * The regular performances were not sponsored by the Emperor, but instead aristocrats. These Colosseum shows fed a popular image of sadistic excess, however, legislation limited the number of gladiators an 'ordinary' aristocrat could present.
 * **Symmachus**, a defender of traditional Roman religion, spent 2000 pounds of gold on shows. This sum was enough to feed nearly 20,000 peasant families for a year. His letter provides factual details about the expense and troubles of acquiring animals, noting that bear cubs acquired were sometimes emaciated, and also mentions 29 gladiators who strangled each other the evening before their performance.
@@ -95,11 +94,9 @@ The Colosseum, as the largest covered building in Rome, featured covered seating
 	* Ancient artists found nets a tricky subject to represent
 * It is difficult to determine the exact difference between early fighter types, such as whether the Thracian was the same as a _hoplomachus_.
 * A startling, frequently reproduced image is a unique bronze **trimallium** (bell chimes) from Herculaneum. The figure is a gladiator attacking his elongated penis, which is half-transformed into a panther or wolf. This figure is considered an apt icon for the Roman cosmology of desire. This creature bears little resemblance to other gladiator images and may have been a theatrical or mime artist, rather than a gladiator in the strict sense.
-
 ##### Reconstruction of the Programme
 * Gladiators were allowed to wear display kit, which may have allowed the imagination of British university students wearing gowns and mortar boards for graduation.
 * Modern students of Roman culture often combine multiple ancient references—a first-century letter, a history aside, a Roman satirist's joke, and a Christian propagandist's comment—to create a reconstructed 'programme'.
 * This reconstruction often mistakenly applies events that occurred at the Circus Maximus or other amphitheatres to the Colosseum
 * Seneca wrote a letter concerned with the 'moral dangers' of crowds before the Colosseum was built.
-
 The sources essentially treat the history of the Colosseum like an archaeological dig itself, starting with modern perceptions (Twain, tourism), moving through the physical evidence (foundations, inscriptions), detailing the political reasons for its creation (Nero vs. Vespasian), and finally dissecting the specific, often confused, details of the performances (naval battles, gladiator categories, and the famous, likely misattributed, dying salute).
