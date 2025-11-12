@@ -20,3 +20,9 @@ The result is that Chamberlain has **$250,000,** a significantly larger sum of m
 ##### Taxation
 Nozick views taxation as a form of forced labor and poses the reader with the leisure example; there are two individuals, one who must work a longer period of time to posses the money necessary to purchase a movie ticket, and the other who spends his evening watching a sunset. According to Nozick, there is no difference between taxation (i.e., seizing of the first man's wealth) and forced labor (i.e., if the man watching the sunset was forced to work instead).
 ## Week 10 (2025-11-03)
+
+## Week 11 (2025-11-10)
+### *Boxill, A Lockean Case for Reparations*
+## Week 12 (2025-11-17)
+
+## Week 14
