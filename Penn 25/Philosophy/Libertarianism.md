@@ -1,5 +1,5 @@
-## Week 09 (2025-10-27)
-### *Robert Nozick: Anarchy, State, Utopia (Distributive Justice)*
+# Week 09 (2025-10-27)
+## *Robert Nozick: Anarchy, State, Utopia (Distributive Justice)*
 ##### Entitlement Theory
 * **Justice in Acquisition:** One who acquires something in accordance with the principles of justice is entitled to that good.
 * **Justice in Transfer:** If both parties consent to an exchange, a good or property can be legitimately exchanged, provided that coercion or deception plays no part in this exchange.
@@ -19,11 +19,11 @@ Argument that Nozick uses to illustrate the patterned principles of just distrib
 The result is that Chamberlain has **$250,000,** a significantly larger sum of money than anyone else in society. Despite this wealth inequality, and this new "D2" not being ordered by D1, D2 is still a just distribution, since each agent willingly exchanged their portion of D1 to create D2, and we know that D1 was itself a just distribution. Nozick states that this shows that just distribution is incompatible with liberty, since in order to preserve distribution D1, the state must perpetually interfere with people's ability to freely exchange their D1 shares.
 ##### Taxation
 Nozick views taxation as a form of forced labor and poses the reader with the leisure example; there are two individuals, one who must work a longer period of time to posses the money necessary to purchase a movie ticket, and the other who spends his evening watching a sunset. According to Nozick, there is no difference between taxation (i.e., seizing of the first man's wealth) and forced labor (i.e., if the man watching the sunset was forced to work instead).
-## Week 10 (2025-11-03)
-### *Fried, Wilt Chamberlain Revisited*
+# Week 10 (2025-11-03)
+## *Fried, Wilt Chamberlain Revisited*
 ~
-## Week 11 (2025-11-10)
-### *Boxill, A Lockean Case for Reparations*
+# Week 11 (2025-11-10)
+## *Boxill, A Lockean Case for Reparations*
 Boxill's arguments for reparations rests on Nozick's third aspect of entitlement theory, that there must be **justice in rectification:** a violation of one's natural rights to life, liberty or property (e.g., labor) can and will be rectified by the state.
 * Slavery is an obvious theft of labor, since this kind of labor has not been justly acquired. In the United States, the Transatlantic Slave Trade constitutes a kind of abduction of individuals living outside the country. Within the United States, slaves have no individual rights, subsequently, they are not entitled to life, liberty or property so long as slavery is perpetuated.
 * In accordance with libertarian principles, the logical conclusion is that reparations must be made since there is no justness in how slaves were acquired, nor is there justness in how they have been "transferred".
@@ -50,5 +50,6 @@ Trying to form my own arguments against reparations because I have to!
 * **States' Responsibility:** If an unjust transaction has occurred and the transgression is the result of the state, it becomes ambiguous as to who should be responsible for compensation. This argument can be used if the state is *complicit* in perpetuating slavery, like the passing of the Fugitive Slave Act as part of the Compromise of 1850, but not directly enforcing slavery. But a more blatant example is something like the internment of Japanese citizens during WWII, which would constitute a violation of Japanese citizens' natural rights (liberty/mobility), since this was something enacted by the federal government, it is unclear as to who will pay/compensate victims of the transgression. This is not necessarily an argument against reparations as a whole, but instead illustrating the limitations of Boxill's theory.
 * **Mobility Argument:** A core principle of libertarianism is freedom of mobility, if individuals are free to exit the country, they may simply leave the country and move to one which does not have an extradition agreement (e.g., the Bahamas), rendering reparations ineffective. The only way to circumvent this and make reparations effective is to prevent such individuals from freely leaving the country, but this is a restriction on individual rights and subsequently leads to a conflict in values.
 * **Utilitarian Argument:** [[Libertarianism#Temporal Framing/Counterfactuals|See: Counterfactuals]]. Note that a libertarian would disregard an argument of this nature, since according to a libertarian, rectification of a transgression takes precedent over the resulting effects on the welfare of the victim.
-## Week 14
-### *Mills, The Racial Contract*
+# Week 14
+## *Mills, The Racial Contract*
+~
