@@ -1,15 +1,14 @@
 # Week 09 (2025-10-27)
 ## *Robert Nozick: Anarchy, State, Utopia (Distributive Justice)*
-##### Entitlement Theory
+##### Principles of Justice & Entitlement Theory
 * **Justice in Acquisition:** One who acquires something in accordance with the principles of justice is entitled to that good.
 * **Justice in Transfer:** If both parties consent to an exchange, a good or property can be legitimately exchanged, provided that coercion or deception plays no part in this exchange.
-* **Justice in Rectification:** If the principles of justice are violated in a transaction, the state reserves the right to "rectify" this misdemeanor, which may entail redistribution.
-##### Justification of Property Rights
-Nozick struggles to justify the existence of property rights; the most common justification for natural right to property is the labor theory, which states that **mixing labor with resources automatically confers ownership.**
-* If Nozick were to go out of the way to pour a can of tomato juice into the ocean as a form of labor, would that entitle him to the ocean?
-He proposes that adding **value** to property justifies one's rights to it; if one builds a fence and plants crops on a plot of land, they have added value to it, and by extension, own it. But by this logic, removing value from property should waive one's right to that property (e.g., buying a house, only to spray paint it a garish color, making it worth less than before).
+* **Justice in Rectification:** If any of these former principles of justice are violated in a transaction, the state reserves the right to "rectify" this misdemeanor, which may entail redistribution.
+##### Justification in Acqusition
+Nozick struggles to justify the existence of property rights; the most common justification for natural right to property is the labor theory, which states that **mixing labor with resources automatically confers ownership.** For instance, if one builds a fence and plants crops on a plot of land, they have added value to it, and by extension, own it. 
+But by this logic, removing value from property should waive one's right to that property (e.g., buying a house, only to spray paint it a garish color, making it worth less than before).
 
-**Nozick's arguments subsequently strictly concern justice in transfer, not acquisition. Justice in transfer cannot create new property rights, only perpetuate those that exist already.**
+Nozick's struggle to justify acquisition of property leads to many of his arguments concerning justice in transfer, not acquisition. Justice in transfer cannot create new property rights, only perpetuate those that exist already.
 ##### Wilt Chamberlain Argument
 Argument that Nozick uses to illustrate the patterned principles of just distribution as **incompatible with liberty**
 * There exists a society with wealth distribution D1 in accordance with Rawls' difference principle (wealth distributed in a way that maximizes utility of the lowest class)
