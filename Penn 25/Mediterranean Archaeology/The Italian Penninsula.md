@@ -1,4 +1,4 @@
-## Week 08 (2025-10-20)
+# Week 08 (2025-10-20)
 ### Etruscan Society
 * Significant parallels to Greek society, but distinctive enough to raise questions about their ontogeny
 * Hippodamian layout: City planning resembled that of neighboring civilization (separation of public space and the temples).
@@ -18,7 +18,7 @@
 	* **Cremation:** Ashes and bones of the deceased persons were placed into a cinerary urn, often times molded into the shape of a home.
 * Etruscan religion and belief was unmistakably similar to that of Greece, but with slight differences: Zeus' name was changed to Tinia, showing a correlation to Greek religion, but illustrating distinctiveness.
 * Women were given a larger role in Etruscan artwork and probably society, since funerary art depicts married couples reclining together at banquets, and women participating alongside men.
-## Week 09 (2025-10-27)
+# Week 09 (2025-10-27)
 ### *Zanker, Pompeii*
 ##### Architecture
 * Tufa as a common building material due to Pompeii's proximity to volcanic activity
@@ -31,7 +31,7 @@
 	* **The Forum:** Central political/commercial hub, containing administrative buildings and an area for trade
 	* **Amiptheater:** Built in 70 BC, served 20,000 spectators of gladitorial contests, illustrating the emphasis on physical strength and competition
 
-## Week 11 (2025-11-10)
+# Week 11 (2025-11-10)
 ### *Hopkins, Colosseum*
 
 ##### Remarks by Mark Twain
@@ -125,3 +125,48 @@ By the third century, political decentralization led to new provincial centers a
 
 This entire dynamic suggests that Roman art was less a product of singular, centralized creation and more like a river system: though the source (Rome) was powerful, the tributaries (the provinces) continually fed into it, enriching the flow and eventually altering the main channel's course and destination. 
 Elsner illustrates a two-way dynamic between the state and the cultures that it inhibited; there was a need to assimilate the periphery into Roman culture, but also a need for the government to accomodate to the diverse array of Mediterranean peoples that the empire included.
+# Week 12
+## *Flohr, Femurs and food regimes in the Roman world*
+
+Since the turn of the millennium, there has been a proliferation of studies discussing the quality of Roman food regimes. Progress includes studying evidence for **stature** on a larger scale to assess changes in average human body length over the long term, noting the work of Koepke and Baten (2005) for Europe, and Giannecchini and Moggi-Cecchi (2008) for Italy. Scholars have also begun to systematically analyze skeletal remains for indications of ill health associated with structural malnutrition, such as **porotic hyperostosis** and **dental enamel hypoplasia**.
+
+##### The Debate and Methodological Challenges
+
+Scholars have not yet reached a consensus on what the skeletal record indicates about Roman food regimes. There is an **optimistic camp** highlighting Roman dietary achievement and a **pessimistic camp** highlighting Roman dietary shortcomings.
+
+ The "frontal opposition" between these two positions raises questions about how solid conclusions derived from skeletal remains currently are, suggesting the evidence may need to be approached with more caution. The most crucial problem in combining skeletal data and economic history is the difficulty for individual scholars to completely master the theoretical and methodological complexities of both fields. 
+ * There is a vast difference in **publication culture**: osteoarchaeologists favor a rigidly analytical scientific tradition, whereas Roman historians lean toward a more rhetorical classical tradition, prioritizing palatable historical scenarios over detailed methodological discussion.
+ * **Raw osteoarchaeological data are often extremely inaccessible**, and key arguments sometimes rely on partially unpublished evidence, such as Klein Goldewijk's work. The lack of standardized publication conventions is typical for a fast-developing field.
+ * The relationship between the excavated skeletal record and historical reality is extremely complex, influenced heavily by **excavation practice** (e.g., rescue excavations for infrastructure projects like rail lines or shopping malls)
+ * The evidence is heavily biased: it is **skewed towards Italy and temperate Europe** at the expense of regions like North Africa, the Nile, and Asia Minor.
+ * Furthermore, the known skeletal record favors centralized necropolises over isolated graves, thus privileging evidence from **cities and large settlements over the countryside**. People living on farmsteads are structurally underrepresented, as are groups buried outside necropolises.
+##### The Stature Debate (Short Romans, Tall Romans)
+The **optimistic position** (e.g., Kron) argued that adult males in Roman Italy averaged around 168.3 cm tall, suggesting Romans were "significantly taller than the nineteenth century working class populations".
+* Kron’s argument is critiqued because Roman recruitment heights mentioned by Vegetius (_De Re Militari_ 1.5) are not directly comparable to 19th-century heights due to different warfare technology.
+* Moreover, Vegetius’s high figures applied only to the cavalry and the first cohort, and he suggested such heights were exceptional in his day.
+
+A fundamental methodological problem in the stature debate is that differing formulae are used to calculate height from long bones (e.g., Kron used Trotter and Gleser for ‘whites’ or Olivier; others use Pearson’s formula or Trotter and Gleser for ‘blacks’). Klein Goldewijk and Jacobs (2013, 11) have argued that these methods are essentially unreliable and that one should compare bones, not reconstructed heights.
+
+Even if Romans were taller than 19th-century working classes, the comparison is problematic; Greco-Roman stature should be judged against Mediterranean food economies of the Late Bronze/Early Iron Age, and those of late antiquity and the medieval period.
+
+Scholars with a **pessimistic view** (e.g., Giannecchini and Moggi-Cecchi) argued that the Roman imperial period saw a marked **decrease in stature**, followed by an increase in late antiquity, while Koepke and Baten advocated a pan-European increase coinciding with the collapse of the Western Roman Empire.
+* A crucial problem with Giannecchini and Moggi-Cecchi’s work is that their imperial period evidence is heavily concentrated in the city of Rome and its direct environment (56% of skeletons), while pre-Roman and post-Roman data come from other regions in Italy.
+* This bias suggests their analysis mainly indicates that people in the Roman metropolis were shorter than people elsewhere in Italy during other periods, not a generalized decline in body height in the Roman world.
+* Shorter stature in Rome might not be related to malnourishment, but rather to factors like **endemic malaria**, structural overpopulation, or bad hygiene.
+
+The analysis by Koepke and Baten, operating on a high level of abstraction, struggles with similar biases, including low sample sizes for the Roman Mediterranean (e.g., 11 skeletons for the second century). Their suggestion of an increase in body length following the fall of the Western Roman Empire coincides with a period where the largest number of skeletons comes from southern Germany and the Rhine Region.
+##### Inconclusive Evidence and Population Pressure
+
+It may be concluded that skeletal evidence is **essentially inconclusive** regarding the historical development of stature. It is difficult to reconstruct local developments over the long term because few large necropolises span more than three or four centuries, with Rome being a possible but complicated exception.
+
+* Scholars are likely to continue interpreting skeletal remains based on their existing models of the nutritional status of Romans, which were developed from other data.
+* The key question of whether Roman undernourishment was bigger, smaller, or comparable to pre- and post-Roman phases hinges primarily on the issue of **population pressure**: whether Rome’s imperial food economies operated close to their maximum capacity.
+
+The consistency of ancient Mediterranean communities sending out surplus population (e.g., via colonization) suggests that overpopulation was a familiar issue but traditionally had a solution: migration. Although Scheidel (2009, 70) argued the early imperial Mediterranean was close to its maximum carrying capacity, there is **no direct evidence unequivocally supporting this claim**
+* Emperors like Augustus and Trajan founded cities in marginal regions, suggesting enough under-explored land was available, although colonization was not widely used as a demographic instrument in the imperial period.
+* The Roman Empire, outside the central Mediterranean, does not appear to have been very densely populated. Settlement data shows entire regions appearing rather empty (e.g., river valleys in Gaul/Spain, the Gharb region, parts of the Ebro basin).
+* This evidence suggests that population pressure was **not** getting the better of the Roman food economy on an empire-wide level
+
+Therefore, undernourishment in the Roman world was likely not directly related to the sheer quantity of people. Instead, there may have been **friction undernourishment** in some larger urban communities, particularly the Roman metropolis, due to the malfunctioning of local and regional food markets.
+* Institutions like the _annona_ (in Rome) and municipal grain funds (_sitonia_) in the Greek East emphasize the potential for malnutrition in urban contexts.
+* This social environment suggests that those who grew up in bigger urban centers had a higher chance of suffering from undernourishment during childhood, potentially resulting in shorter stature. If average stature is inversely related to the proportion of people in large cities, Romans might be slightly shorter than their predecessors and successors, lending a slightly stronger case to the pessimistic side, though caution is advised due to biases in the data.
