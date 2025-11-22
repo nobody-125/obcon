@@ -129,9 +129,7 @@ Elsner illustrates a two-way dynamic between the state and the cultures that it 
 ## *Flohr, Femurs and food regimes in the Roman world*
 
 Since the turn of the millennium, there has been a proliferation of studies discussing the quality of Roman food regimes. Progress includes studying evidence for **stature** on a larger scale to assess changes in average human body length over the long term, noting the work of Koepke and Baten (2005) for Europe, and Giannecchini and Moggi-Cecchi (2008) for Italy. Scholars have also begun to systematically analyze skeletal remains for indications of ill health associated with structural malnutrition, such as **porotic hyperostosis** and **dental enamel hypoplasia**.
-
 ##### The Debate and Methodological Challenges
-
 Scholars have not yet reached a consensus on what the skeletal record indicates about Roman food regimes. There is an **optimistic camp** highlighting Roman dietary achievement and a **pessimistic camp** highlighting Roman dietary shortcomings.
 
  The "frontal opposition" between these two positions raises questions about how solid conclusions derived from skeletal remains currently are, suggesting the evidence may need to be approached with more caution. The most crucial problem in combining skeletal data and economic history is the difficulty for individual scholars to completely master the theoretical and methodological complexities of both fields. 
