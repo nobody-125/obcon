@@ -1,0 +1,20 @@
+# Week 05 (2025-09-22)
+## *John Rawls: A Theory of Justice*
+John Rawls attempts to create a justification for a welfare state from the liberal position and argues in favor of the creation of the social safety net through the "maximin" principle. Wealth redistribution poses a justificatory challenge to those believing in liberalism, since invariably the creation of a welfare state which redistributes money is at face value a violation of one's right to both liberty and property insofar that the government chooses how one's money is spent and does not guarantee individuals full ownership of material wealth.
+##### Veil of Ignorance
+* There exists an **original position** where individuals, in isolation, are given the agency to define the size of the state.
+* In this position, people make choices through the veil of ignorance and select political principles according to their own self interest **without knowing what their social status will be,** while also somehow still understanding general rules regarding economics, politics and human behavior.
+* Rawls argues that from this veil of ignorance individuals will agree upon the **maximin principle,** the state is characterized as ensuring that the lowest class of individuals have the best quality of life (i.e., according to this principle, if there are three nations each with a upper, middle and lower class, the nation where the lower class has the highest quality of life is best).
+##### Principles.
+The risk-averse nature of these agents leads to the formation of three agreed-upon principles with hierarchical priority (lexical priority):
+1. **Basic Liberty Principle:** Everyone is guaranteed their natural rights, and the freedom of political expression and ability to run for office, and protection against arbitrary arrest.
+2. **Fair Equality of Opportunity:** The state should create a level field for everyone to act in, so that people born with the same talents and motivations can achieve similar levels of financial or social success. This implies equal access to education, healthcare, transportation, housing, and protection against discrimination on the basis of morally arbitrary qualities (e.g., skin color).
+3. **Difference Principle:** That inequality that exists in society can only be justified if it is somehow benefiting those who are the least advantaged. Trickle-down economics comes to mind, the "inventor" of the internet, for instance, can be significantly wealthier than the rest of society should his invention confer great benefits specifically down to the lowest class of people.
+
+According to Rawls, these rights can only be guaranteed through the existence of the welfare state; a centralized authority, for instance, may be the only way to reliably maintain one's natural right to life, and the social safety net would be responsible for providing equal access to social resources in situations where a free market may find no incentive to do so.
+##### Objections
+* **Epistemological Limits:** Rawls' arguments often rest upon the basis that a centralized authority will know what is the best way to go about maximizing the lowest class, or perhaps, that they can even foresee the future. In a world where there exists finite labor and resources, it may be dangerous to assume that the government would be precise in knowing the best way to maximize utility. The U.S. government, for instance, saw it as fit in the 19th century to subsidize the construction of canals whilst failing to consider the benefits in safety and efficiency that the train offered.
+* **Harm Through Incentives:** Individuals may be discouraged from creating wealth if they feel that they do not have an absolute right to property. If a rational agent possesses a great amount of wealth, and they believe that the state may seize it through taxation, they may spend the money in a manner which is irretrievable and does not provide any benefit to the lowest class, such as going on luxurious vacations.
+## *Shiffrin - Incentives, Motives*
+## *Harsanyi - Utilitarianism*
+## *Carens - The Case for Open Borders*
