@@ -4,12 +4,19 @@ The demand curve remains unaffected should a perfectly competitive market be con
 
 See [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] to understand the deadweight loss that might be created from a monopoly.
 ## Monopoly Profit Maximization
-* **Note that a monopoly does not have a supply curve,** since the supply curve represents the quantity supplied at a particular price. In a monopoly the profit-maximizing quantity is determined where $MC=MR$, and the monopoly will charge the price on the demand curve. This is in contrast to perfect competition where the profit-maximizing quantity is determined at $Q_D=MC$. Subsequently, $P>MC$.  
-* Changes in fixed costs will never affect production or pricing conditions. However, they can affect total costs and subsequently affect profits.
-* Changes in variable costs can affect the marginal cost at each level of output. As $\downarrow MC$, monopoly price decreases, and as $\uparrow MC$, monopoly price increases.
-##### Socially Efficient Quantity
-In a monopoly, the $Q_E$ for the firm is where $P=MC$. 
-* A tax is used if 
+* **Note that a monopoly does not have a supply curve,** since the supply curve represents the quantity supplied at a particular price. In a monopoly the profit-maximizing quantity is determined where $MC=MR$. Note, however, that the monopoly will not price the good at the marginal cost, since the firm affords to charge what the market values their good at. This is in contrast to perfect competition where the profit-maximizing price is determined at $Q_D=MC$.
+* Changes in fixed costs will never affect production or pricing conditions. However, they can affect total costs and subsequently affect profits. Changes in variable costs can affect the marginal cost at each level of output. As $\downarrow MC$, monopoly price decreases, and as $\uparrow MC$, monopoly price increases.
+##### Efficiency and Externalities
+A monopoly will generally create a deadweight loss, however, the nature of this deadweight loss varies depending on the existence and social impact of externalities. The general trend is that monopolies produce below the quantity produced at market equilibrium for a higher price, creating DWL. But with the presence of negative externalities, it is also very possible that a monopoly will overproduce given the firm's goal is to maximize private benefit rather than social benefit. The result is that both taxes and subsidies are used should the monopoly fail to produce at $Q_E$.
+
+* A corrective tax is used if the $MSB<MSC$, where the $MSC$ is the result of negative externalities. This tax increases marginal private cost (MPC) for the firm and artificially reduces the supply to the socially efficient quantity.
+* If the $MSC<MSB$, the opposite is done where a government subsidy reduces the MPC, allowing the monopoly to increase supply and subsequently increase the social benefit to the socially efficient quantity.
 ## Perfect Price Discrimination
-Perfect price discrimination: form of dynamic pricing where exchange takes place 
-Inefficiencies that occur because of social costs that arise from PPD can be corrected with a government subsidy or tax, $t=MEC$ to achieve $Q_E$. 
+Perfect price discrimination: form of dynamic pricing where exchange takes place. In PPD, demand equals marginal revenue ($Q_D=MR$). There is no deadweight loss from perfect price discrimination, however, all surplus goes to the producer. Therefore it is always socially efficient.
+
+To achieve PPD a firm must have:
+* Market power so the firm may dictate prices
+* Ability to prevent resale (e.g., region-locked electronic media)
+* Identify consumers willing to pay more (groupings)
+##### Externalities
+Inefficiencies that occur because of social costs that arise from PPD can be corrected with a government subsidy or tax, $t=MEC$ to achieve $Q_E$.
