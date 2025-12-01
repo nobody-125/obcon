@@ -1,0 +1,6 @@
+## *Charles W. Mills, The Racial Contract*
+Charles Mills argues that there exists a "Racial Contract", a political, moral and epistemological school of thought that deviates from the classical or contemporary definitions of the Social Contract. 
+* The RC is a set of formal or informal meta-agreements between members of one subset of humans, designated as **"white,"** and coextensive with the class of **full persons.** Individuals are partitioned into "white" and "non-white" populations, where non-whites are categorized as sub-persons and "objects" of the agreement rather than subjects of the agreement.
+* The specific purpose of the racial state is to **maintain and reproduce this racial order** and secure the privileges of the full white citizens and the subordination of nonwhites. The "consent" expected of white citizens is conceptualized as consent to the racial order, or **Whiteness**. Race is therefore a central shaping constituent of Western ideals, not an "afterthought" or "deviation".
+##### Color-Coded Morality
+While mainstream contractarianism is supposedly committed to the **moral equality of all men**, the RC restricts the possession of natural freedom and equality to white men. Nonwhites are designated as born **unfree and unequal**, relegated to a lower rung on the moral ladder.
