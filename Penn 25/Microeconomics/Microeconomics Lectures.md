@@ -59,10 +59,10 @@ See: [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] and [[obcon/Penn 25/Microeconomic
 Most affordable purchasing point for buyer while remaining rational for sellers to sell
 Quantity of supply = quantity demand 
 	Suppose the detergent industry is perfectly competitive and all firms are identical. The market demand for detergent is given by $P = 60 – 0.1 QD$, and each firm faces the same cost functions: $TC = 100 +q^2$  and  $MC = 2q$. If there are 20 firms in the industry, the market equilibrium price is given by:`
-		A: P=10
-		B: P=20
-		C: P=30
-		D: P=40
+		A: $P=10$
+		B: $P=20$
+		C: $P=30$
+		D: $P=40$
 	Start with marginal cost equation of MC=2q and work towards finding the market supply equation. The market supply equation is the individual supply of each firm. $Inv. Supply \rightarrow P=2q$ (since P=MC); Supply: $q=0.5P$. Therefore, market supply is twenty times this amount,  $P=2(Q/20)$; $P=0.1Q$
 	Set the market supply equation equal to the market demand equation to obtain an equilibrium quantity of 300, leading to a price of 30.
 * **Never set inverse demand equal to supply,** and never set inverse supply equal to demand. Must be INV/INV 
