@@ -1,5 +1,5 @@
 # Week 08 (2025-10-20)
-### Etruscan Society
+## Etruscan Society
 * Significant parallels to Greek society, but distinctive enough to raise questions about their ontogeny
 * Hippodamian layout: City planning resembled that of neighboring civilization (separation of public space and the temples).
 ##### Architecture
@@ -19,7 +19,7 @@
 * Etruscan religion and belief was unmistakably similar to that of Greece, but with slight differences: Zeus' name was changed to Tinia, showing a correlation to Greek religion, but illustrating distinctiveness.
 * Women were given a larger role in Etruscan artwork and probably society, since funerary art depicts married couples reclining together at banquets, and women participating alongside men.
 # Week 09 (2025-10-27)
-### *Zanker, Pompeii*
+## *Zanker, Pompeii*
 ##### Architecture
 * Tufa as a common building material due to Pompeii's proximity to volcanic activity
 * Greek influence 
@@ -32,7 +32,7 @@
 	* **Amiptheater:** Built in 70 BC, served 20,000 spectators of gladitorial contests, illustrating the emphasis on physical strength and competition
 
 # Week 11 (2025-11-10)
-### *Hopkins, Colosseum*
+## *Hopkins, Colosseum*
 
 ##### Remarks by Mark Twain
 * It is difficult to determine the "high emotional writing" that Twain had in mind regarding the Colosseum and its gladiatorial games. Twain declared he was the 'only free white man of mature age' who had written about the monument since Byron without quoting the poet's phrase about the Colosseum being "butchered" to make a Roman holiday.
@@ -100,7 +100,7 @@ The Colosseum, as the largest covered building in Rome, featured covered seating
 * This reconstruction often mistakenly applies events that occurred at the Circus Maximus or other amphitheatres to the Colosseum
 * Seneca wrote a letter concerned with the 'moral dangers' of crowds before the Colosseum was built.
 The sources essentially treat the history of the Colosseum like an archaeological dig itself, starting with modern perceptions (Twain, tourism), moving through the physical evidence (foundations, inscriptions), detailing the political reasons for its creation (Nero vs. Vespasian), and finally dissecting the specific, often confused, details of the performances (naval battles, gladiator categories, and the famous, likely misattributed, dying salute).
-### *Elsner, The Art of the Roman Empire AD 100-450*
+## *Elsner, The Art of the Roman Empire AD 100-450*
 ##### The Center’s Mechanism for Propagation and Assimilation (Second Century AD)
 The Roman center relied heavily on visual culture to propagate imperial identity and secure political control, though this process was met with complex local reactions.
 * Visual Propagation of Identity: Roman identity was widely promoted and propagated partly through the visual culture of Roman architecture and art. This culture, along with Rome’s fundamental political and civic life, was maintained through various rituals and customs.
@@ -125,7 +125,7 @@ By the third century, political decentralization led to new provincial centers a
 
 This entire dynamic suggests that Roman art was less a product of singular, centralized creation and more like a river system: though the source (Rome) was powerful, the tributaries (the provinces) continually fed into it, enriching the flow and eventually altering the main channel's course and destination. 
 Elsner illustrates a two-way dynamic between the state and the cultures that it inhibited; there was a need to assimilate the periphery into Roman culture, but also a need for the government to accomodate to the diverse array of Mediterranean peoples that the empire included.
-# Week 12
+# Week 12 (2025-11-18)
 ## *Flohr, Femurs and food regimes in the Roman world*
 
 Since the turn of the millennium, there has been a proliferation of studies discussing the quality of Roman food regimes. Progress includes studying evidence for **stature** on a larger scale to assess changes in average human body length over the long term, noting the work of Koepke and Baten (2005) for Europe, and Giannecchini and Moggi-Cecchi (2008) for Italy. Scholars have also begun to systematically analyze skeletal remains for indications of ill health associated with structural malnutrition, such as **porotic hyperostosis** and **dental enamel hypoplasia**.
@@ -168,3 +168,46 @@ The consistency of ancient Mediterranean communities sending out surplus populat
 Therefore, undernourishment in the Roman world was likely not directly related to the sheer quantity of people. Instead, there may have been **friction undernourishment** in some larger urban communities, particularly the Roman metropolis, due to the malfunctioning of local and regional food markets.
 * Institutions like the _annona_ (in Rome) and municipal grain funds (_sitonia_) in the Greek East emphasize the potential for malnutrition in urban contexts.
 * This social environment suggests that those who grew up in bigger urban centers had a higher chance of suffering from undernourishment during childhood, potentially resulting in shorter stature. If average stature is inversely related to the proportion of people in large cities, Romans might be slightly shorter than their predecessors and successors, lending a slightly stronger case to the pessimistic side, though caution is advised due to biases in the data.
+# Week 14 (2025-12-01)
+### *J. Liebeschuetz: The Decline and Fall of the Roman City*
+
+The period around AD 650 saw a transformation of Western Europe, evidenced by a dramatic shift in the material aspects of life. Across the West, from Britain to Thrace, building construction shifted massively from stone to the use of **wood, wattle, and clay**. Even churches were infrequently built after 600 AD, although Lombard Italy shows evidence of church building between 600 and 800 AD.
+##### Late Roman Cities
+Urban archaeology reveals a pattern of decline followed by the beginnings of renewal. By the sixth century, the classical _polis_ structure was largely transformed in most Western regions, marked by the **abandonment of the forum** and monumental structures in the civic center. Collective life simplified toward private life, with residential space spreading throughout the entire city.
+
+* Older properties were frequently subdivided for multi-occupation, rather than large new houses being constructed. For instance, a large peristyle house at Argos, built during the Empire, was **subdivided around AD 530** and subsequently declined.
+* Excavations in Rome and Brescia suggest a drastic drop in living standards. In Brescia, fifth-century Roman _domus_ were partitioned, destroyed, leveled, and then occupied by **scattered groups of wooden, timber, or wattle and clay huts** built among earth and debris.
+* In the area of the Roman _signoria_ (like Frascati and Florence), while the urban fabric was potentially maintained until the early fifth century, deep deposits of dark soil, often up to **2 meters deep**, covered Roman remains, indicating paved areas had been abandoned.
+
+As for newer structures, typical Late Late Roman city dwelling in Italy was a **clustered, two-storied structure** of small dimensions, often built without stone foundations. Public buildings were often recycled for their materials.
+* The decay of the civic center is emphasized by the shift from stone and brick to wood construction.
+* Burials began appearing within the older urban structures, clustered around churches, or monastic centers.
+##### Regional Shifts and External Impact
+The maintenance of large works depended almost entirely on **public and clerical patronage** as public building programs largely halted. In Brescia, construction shows renewal in the seventh century, including the construction of S. Salvador and the S. Giulia monastery under King Desiderius in the 750s. The long-term fate of cities in Lombardy varied. 
+* The Gothic wars involving Justinian led to the destruction of many middle Byzantine cities and institutions. 
+* The Lombards, arriving in **AD 568**, seized territories in northern Italy, transforming the structure of the Western world into an **agricultural state.**
+##### Arab Conquest
+The Arab conquest also had severe consequences. Cities in Islamic Spain, such as Seville, Merida, and Valencia, suffered negative effects. Carthage’s classical layout was lost and eventually replaced by the Arab foundation of **Qairawan** (AD 670), marking the end of Roman occupation there around the mid-seventh century.
+##### Reduction in the Number of Rural Sites
+Archaeological surveys indicate a steady reduction in rural settlements beginning around the end of the second century, intensifying through the fourth and fifth centuries. This decline was accompanied by a concentration of land ownership in large latifundia.
+* Field survey data reveals a **catastrophic decline in Campania**, where 390–445 sites in the third century fell to just 53 by the end of the fifth century
+* This suggests that the **decline of the countryside preceded the city's decline.**
+* In the Tiber valley, settled sites were reduced by 75% between the fourth and mid-sixth centuries.
+* In Lucania/Bruttium, land was reorganized into _mansi_ (farm estates).
+##### The Breakdown of the Distribution System
+The widely accepted cause for the collapse of the Roman economy in the West is the **fifth-century decline in the exchange system.** Evidence rests primarily on the rapid decline of imported **African Red Slip ware (ARS)**. The Vandal occupation of North Africa (mid-fifth century) largely stopped ARS exports to the West, shifting trade toward the East.
+
+By the sixth century, pottery found in the West was generally produced locally for domestic use, not traded long distance. The end of the _annona_ (public grain subsidy) system required cities to transport large quantities of necessary bulk goods, which became too expensive.
+##### Shrinking Technology
+Archaeological findings suggest a reduction in the standard of living and a significant simplification of technology. Houses were usually built of wood, wattle, or earth, often lacking stone foundations. Complex construction techniques, such as using horizontal trenching for large stone foundations, were used less often.
+* Stone construction was rarely used until the Lombard period.
+* Pottery use was substantially reduced, focusing on functional forms. The difficulty for specialized crafting personnel to sustain a living contributed to this reduction in specialization, with metal-working only concentrating in a few centers by the tenth century.
+##### Population Crisis
+
+A critical factor in the decay of cities was **population loss.** The abandonment of large spaces within cities points toward significant depopulation or concentration into smaller areas.
+
+* Massive demographic setbacks were caused by the **plague of Marcus Aurelius** (c. AD 166–175) and a further **catastrophic plague in the mid-sixth century,** which hindered demographic recovery well into the mid-eighth century. 
+* Furthermore, the combination of endemic warfare and heavy taxation, especially following the division of Italy into Byzantine and Lombard zones, blocked recovery,. 
+* It is estimated that the population of Italy had shrunk to a fraction of what it had been during the Early Empire.
+
+The end result was the **decay of the civic center**, characterized by simplified housing construction (a shift from stone to wood and brick) and the building of clustered huts within the ruins of older monuments, reflecting a severe lowering of living standards that began potentially as early as AD 400.
