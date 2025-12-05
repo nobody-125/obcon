@@ -169,6 +169,39 @@ Therefore, undernourishment in the Roman world was likely not directly related t
 * Institutions like the _annona_ (in Rome) and municipal grain funds (_sitonia_) in the Greek East emphasize the potential for malnutrition in urban contexts.
 * This social environment suggests that those who grew up in bigger urban centers had a higher chance of suffering from undernourishment during childhood, potentially resulting in shorter stature. If average stature is inversely related to the proportion of people in large cities, Romans might be slightly shorter than their predecessors and successors, lending a slightly stronger case to the pessimistic side, though caution is advised due to biases in the data.
 # Week 14 (2025-12-01)
+### *Kleiner, Early Christian Art and Architecture*
+The development of Early Christian art marks a significant transition from the Classical world to the medieval period. This era saw the rise of patronage in **Rome and Trier** and the strategic use of art by Constantine for political purposes. The earliest examples of Christian art date to the second and third centuries and are primarily preserved in the **Roman catacombs**. Before large-scale churches were established, Christian services occurred in private settings, often in community houses, such as the example excavated at Dura-Europos. As the Christian populace grew, there was an urgent need for substantial new buildings to support their liturgy, worship, discipline, and administration.
+
+##### Old Saint Peter's Basilica (Rome, Begun c. 320)
+
+Constantine initiated a major architectural building campaign, which included the construction of **Old Saint Peter's Basilica** on the Vatican hill in Rome. This location was intentionally chosen to define a new Christian center, separate from the pagan temples and ancient centers of the city.
+
+ * **Site and Purpose:** The basilica was erected over the spot traditionally believed to be the place where the apostle Peter was martyred and buried. The building served as a **martyrium** and replaced an earlier, more modest shrine (_trophy_) that marked Peter’s grave.
+ * **Architectural Form and Layout:** Old Saint Peter's was designed as a **five-aisled basilica,** utilizing a plan adapted from Roman civic basilicas and imperial audience halls.
+	 * The structure included a central **nave**, four flanking aisles, and an **apse** at the western end. The apse was bordered by aisles and often had an ambulatory or crypt.
+	 * The total length of the structure measured **395 feet.**
+	 * A defining architectural element was the **transept**, which traversed the building near the apse, giving the plan a T-shape. The transept served to house Peter's tomb and also functioned as a burial place for Christian dignitaries.
+	 * Worshipers accessed the structure through a large **atrium** and then passed into the basilica via a **narthex** (vestibule).
+* **Construction Details:** Because the basilica was built directly on the Vatican cemetery, its construction required **crypts and vaults** to incorporate the pre-existing graves, ensuring the preservation of the sacred ground, including the presumed tomb of Peter, which sat directly beneath the structure's focal point.
+* The immense scale of the church allowed it to accommodate approximately **4,000 worshipers.**
+##### The Catacombs (Page 301)
+The Catacombs served as extensive underground burial grounds used by Early Christians, particularly in Rome:
+* **Scope and Structure:** These cemeteries consisted of vast, complex networks of passageways and chambers, some systems extending up to **60 miles in length** and often reaching **three or four stories deep** below ground.
+* **Burial Methods:** The primary burial method was the carving of individual niches, called **loculi**, stacked along the walls of the passageways. Small, rectangular chambers known as **cubicula** were also used. Larger, arched openings, called **arcosolia**, held sarcophagi.
+* **Function:** Although their primary purpose was burial, the catacombs also contained the graves of early popes and martyrs. While they were not suited for large-scale liturgical services, meals may have occasionally been held there.
+##### Artistic Developments and Iconography (Pages 303–305)
+Early Christian art utilized subjects drawn from both the Old and New Testaments for paintings and sculptures.
+
+* **Fresco Subjects:** Wall paintings, especially in the catacombs (such as the Catacombs of Saints Peter and Marcellinus), frequently depicted narratives.
+	* **Old Testament (OT):** Popular themes included **Adam and Eve**, the first humans to sin, and the **Sacrifice of Isaac**, where Abraham was commanded to sacrifice his son.
+	* **New Testament (NT):** Important subjects included the **Adoration of the Magi** and Christ granting the keys of the kingdom to Peter.
+	* **The Good Shepherd:** This symbol was ubiquitous, often showing Christ carrying a sheep across his shoulders, representing the shepherd who sought the lost sheep.
+* **Sarcophagi:** Sculpture largely took the form of **sarcophagi**, which evolved from simple marble containers to highly decorated pieces.
+	* **Sarcophagus of Junius Bassus:** This notable example, dated to the late fourth century, features intricate relief carvings detailing Christian narratives.
+	* **Detail and Style:** The reliefs on sarcophagi, like the **Statues of Christ** and the scene of **Adam and Eve** on the Junius Bassus sarcophagus, show the increasing complexity and narrative focus of Early Christian sculpture, often drawing upon classical styles but adapting them for Christian theology.
+	* The iconography sometimes depicted Christ enthroned, with his feet resting on the firmament, or above the personification of the sky god.
+
+The transition from the private meeting houses of Dura-Europos to the colossal basilica of Old Saint Peter's illustrates the immense shift in Christian architecture, moving from hidden worship to monumental public spectacle.
 ### *Hopkins, A World Full of Gods*
 ##### Introduction
 The introduction states that the purpose of the book is to recount the dramatic growth of Christianity in the Roman Empire during the first three centuries C.E..
