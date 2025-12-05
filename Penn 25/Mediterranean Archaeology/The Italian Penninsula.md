@@ -171,9 +171,7 @@ Therefore, undernourishment in the Roman world was likely not directly related t
 # Week 14 (2025-12-01)
 ### *Kleiner, Early Christian Art and Architecture*
 The development of Early Christian art marks a significant transition from the Classical world to the medieval period. This era saw the rise of patronage in **Rome and Trier** and the strategic use of art by Constantine for political purposes. The earliest examples of Christian art date to the second and third centuries and are primarily preserved in the **Roman catacombs**. Before large-scale churches were established, Christian services occurred in private settings, often in community houses, such as the example excavated at Dura-Europos. As the Christian populace grew, there was an urgent need for substantial new buildings to support their liturgy, worship, discipline, and administration.
-
 ##### Old Saint Peter's Basilica (Rome, Begun c. 320)
-
 Constantine initiated a major architectural building campaign, which included the construction of **Old Saint Peter's Basilica** on the Vatican hill in Rome. This location was intentionally chosen to define a new Christian center, separate from the pagan temples and ancient centers of the city.
 
  * **Site and Purpose:** The basilica was erected over the spot traditionally believed to be the place where the apostle Peter was martyred and buried. The building served as a **martyrium** and replaced an earlier, more modest shrine (_trophy_) that marked Peter’s grave.
