@@ -168,7 +168,83 @@ The consistency of ancient Mediterranean communities sending out surplus populat
 Therefore, undernourishment in the Roman world was likely not directly related to the sheer quantity of people. Instead, there may have been **friction undernourishment** in some larger urban communities, particularly the Roman metropolis, due to the malfunctioning of local and regional food markets.
 * Institutions like the _annona_ (in Rome) and municipal grain funds (_sitonia_) in the Greek East emphasize the potential for malnutrition in urban contexts.
 * This social environment suggests that those who grew up in bigger urban centers had a higher chance of suffering from undernourishment during childhood, potentially resulting in shorter stature. If average stature is inversely related to the proportion of people in large cities, Romans might be slightly shorter than their predecessors and successors, lending a slightly stronger case to the pessimistic side, though caution is advised due to biases in the data.
+# Week 13 (2025-11-17)
 # Week 14 (2025-12-01)
+### *Kleiner, Early Christian Art and Architecture*
+The development of Early Christian art marks a significant transition from the Classical world to the medieval period. This era saw the rise of patronage in **Rome and Trier** and the strategic use of art by Constantine for political purposes. The earliest examples of Christian art date to the second and third centuries and are primarily preserved in the **Roman catacombs**. Before large-scale churches were established, Christian services occurred in private settings, often in community houses, such as the example excavated at Dura-Europos. As the Christian populace grew, there was an urgent need for substantial new buildings to support their liturgy, worship, discipline, and administration.
+##### Old Saint Peter's Basilica (Rome, Begun c. 320)
+Constantine initiated a major architectural building campaign, which included the construction of **Old Saint Peter's Basilica** on the Vatican hill in Rome. This location was intentionally chosen to define a new Christian center, separate from the pagan temples and ancient centers of the city.
+
+ * **Site and Purpose:** The basilica was erected over the spot traditionally believed to be the place where the apostle Peter was martyred and buried. The building served as a **martyrium** and replaced an earlier, more modest shrine (_trophy_) that marked Peter’s grave.
+ * **Architectural Form and Layout:** Old Saint Peter's was designed as a **five-aisled basilica,** utilizing a plan adapted from Roman civic basilicas and imperial audience halls.
+	 * The structure included a central **nave**, four flanking aisles, and an **apse** at the western end. The apse was bordered by aisles and often had an ambulatory or crypt.
+	 * The total length of the structure measured **395 feet.**
+	 * A defining architectural element was the **transept**, which traversed the building near the apse, giving the plan a T-shape. The transept served to house Peter's tomb and also functioned as a burial place for Christian dignitaries.
+	 * Worshipers accessed the structure through a large **atrium** and then passed into the basilica via a **narthex** (vestibule).
+* **Construction Details:** Because the basilica was built directly on the Vatican cemetery, its construction required **crypts and vaults** to incorporate the pre-existing graves, ensuring the preservation of the sacred ground, including the presumed tomb of Peter, which sat directly beneath the structure's focal point.
+* The immense scale of the church allowed it to accommodate approximately **4,000 worshipers.**
+##### The Catacombs (Page 301)
+The Catacombs served as extensive underground burial grounds used by Early Christians, particularly in Rome:
+* **Scope and Structure:** These cemeteries consisted of vast, complex networks of passageways and chambers, some systems extending up to **60 miles in length** and often reaching **three or four stories deep** below ground.
+* **Burial Methods:** The primary burial method was the carving of individual niches, called **loculi**, stacked along the walls of the passageways. Small, rectangular chambers known as **cubicula** were also used. Larger, arched openings, called **arcosolia**, held sarcophagi.
+* **Function:** Although their primary purpose was burial, the catacombs also contained the graves of early popes and martyrs. While they were not suited for large-scale liturgical services, meals may have occasionally been held there.
+##### Artistic Developments and Iconography (Pages 303–305)
+Early Christian art utilized subjects drawn from both the Old and New Testaments for paintings and sculptures.
+
+* **Fresco Subjects:** Wall paintings, especially in the catacombs (such as the Catacombs of Saints Peter and Marcellinus), frequently depicted narratives.
+	* **Old Testament (OT):** Popular themes included **Adam and Eve**, the first humans to sin, and the **Sacrifice of Isaac**, where Abraham was commanded to sacrifice his son.
+	* **New Testament (NT):** Important subjects included the **Adoration of the Magi** and Christ granting the keys of the kingdom to Peter.
+	* **The Good Shepherd:** This symbol was ubiquitous, often showing Christ carrying a sheep across his shoulders, representing the shepherd who sought the lost sheep.
+* **Sarcophagi:** Sculpture largely took the form of **sarcophagi**, which evolved from simple marble containers to highly decorated pieces.
+	* **Sarcophagus of Junius Bassus:** This notable example, dated to the late fourth century, features intricate relief carvings detailing Christian narratives.
+	* **Detail and Style:** The reliefs on sarcophagi, like the **Statues of Christ** and the scene of **Adam and Eve** on the Junius Bassus sarcophagus, show the increasing complexity and narrative focus of Early Christian sculpture, often drawing upon classical styles but adapting them for Christian theology.
+	* The iconography sometimes depicted Christ enthroned, with his feet resting on the firmament, or above the personification of the sky god.
+
+The transition from the private meeting houses of Dura-Europos to the colossal basilica of Old Saint Peter's illustrates the immense shift in Christian architecture, moving from hidden worship to monumental public spectacle.
+### *Hopkins, A World Full of Gods*
+##### Introduction
+The introduction states that the purpose of the book is to recount the dramatic growth of Christianity in the Roman Empire during the first three centuries C.E..
+* The Introduction sets the historical scene, noting that the real Jesus was a Jew who led a radical revisionist movement within Judaism. 
+* By the end of the fourth century, Christianity had become the official state religion, leading to the **banning of pagan rites**. 
+* The author describes the work as an experiment in writing religious history, combining traditional research with historical reportage and a TV drama format, aiming for a balance between historical objectivity and empathy. 
+* The methodology involves studying Roman paganism, Judaism, and early Christianity by exploring variations in interpretation.
+##### Arrival in Pompeii and the Forum
+The core narrative begins with the time travel assignment of Martha and James, commissioned by King's College, to recover information on Roman religious practices in the first three centuries C.E.. Their first destination is Pompeii, chosen for the period shortly before the eruption of Vesuvius.
+* Upon arrival, Martha is immediately struck by the difference between idealized views of antiquity and the messy reality, noting the pervasive presence of smells, flies, and dirt.
+* To facilitate their research, they adopt the local personae of ambitious Greek/Pompeian immigrants: James as Cnaeus Stertinius Aquila and Martha as Stertinia Firenze.
+
+**Archaeological Details of the Forum:** The travelers observe the bustling Forum, which is dominated by large, brightly colored temples, **marble statues**, and numerous **altars.** The environment is a "world full of gods". Specifically, Martha mentions the Temple of Jupiter and the **Temple of the Emperor Augustus**. The Forum's arch, dedicated to the emperor, was adorned with bronze statues and two large marble pedestals. They also note the prevalence of **graffiti** painted on walls across the city, containing political slogans, advertisements, and crude remarks.
+
+* James buys three slaves at the Market Hall, noting that a slave dealer traded slaves away as if they were merely objects. 
+* The two travelers also visit a private house where they observe a **small, obscure caricature of Aeneas and Anchises** and find a bronze bell shaped like a **phallus** dangling from the sacred chest of the household gods.
+##### Public Spaces, Cults, and Domestic Life
+* **The Baths and Erotic Art (Archaeology):** Martha describes visiting the public baths, likely the most visible, elaborate public architecture in the city. 
+* She details the changing room (_apodyterium_), noting its elaborate decoration, **marble floor**, and a simple table used for depositing clothes. 
+* She is shocked by the open display of nudity and public sexuality, including numerous **explicit pictures and carvings** depicting heterosexual and homosexual acts within the baths.
+
+In similar nature to the apodyterium, James describes the low-reputation inn where they stayed.
+* The inn walls were covered with **erotic murals**, including depictions associated with household gods or heroes. 
+* He mentions finding a **bronze bell shaped like a phallus** hanging over the counter, and small clay statues of household gods (the Lares) were placed in niches. 
+* The inn's garden wall displayed a large picture dedicated to the Goddess Fortuna.
+##### Isis in Procession
+**Isis in Procession (Ritual Iconography):** Martha observes the procession of Isis, highlighting that Roman religion was public, participatory, and spectacular, unlike early Christianity. 
+* The formal procession included chief priests with shaved heads carrying various sacred objects. 
+* These artifacts included the **golden cupola** (shaped like a boat), the **holy symbols** (a lantern shape and a gold piece), and a pitcher shaped like a woman's breast. 
+* Other items were **vases used by Egyptians** to extract water from the Nile.
+
+**Isis—A Conversion (Ritual Details):** James is initiated into the mysteries of Isis, a private rite involving symbolic death and rebirth. The ceremony included ritual cleansing and a descent into an **underground crypt** beneath the temple. James wore a **linen robe** during the initiation, symbolizing his new life.
+##### A Wedding in the House of the Vettii (Domestic Archaeology/Architecture)
+Martha visits the **House of the Vettii,** described as a beautifully decorated, large house.
+* The house included a **colonnaded courtyard** (_peristyle_) featuring white-painted columns, with bases in red and gold, and statues.
+* There was also an **atrium** with a fountain. The **entrance hall** was narrow and painted black and white. 
+* The house contained multiple shrines to the household gods: one small temple dedicated to Jupiter, Juno, and Minerva, and another for the **Lares and the Genius of Popaeus** (found on the house's south side).
+
+The wedding preparations involved a **pig sacrifice.** The bride, Lucretia, wore a traditional six-part hairstyle (_sex crines_) and a veil. The groom's priest, Lucretius, officiated the prayers and sacrifices.
+##### Bloody Games (Archaeology and Public Culture) 
+James attends the brutal gladiatorial games, noting the violent excitement of the crowd. 
+* Archaeological evidence for the popularity of the games is seen in the **posters and frescoes painted on street walls** promoting the events and naming the star gladiator, Crescens. 
+* The public enthusiasm was further commercialized, evidenced by local shops selling **bronze bells attached to gladiators posing**. 
+* Following the games, a public banquet was held at the Temple of Augustus, where **sacrificed bull and pig** were eaten.
 ### *J. Liebeschuetz: The Decline and Fall of the Roman City*
 
 The period around AD 650 saw a transformation of Western Europe, evidenced by a dramatic shift in the material aspects of life. Across the West, from Britain to Thrace, building construction shifted massively from stone to the use of **wood, wattle, and clay**. Even churches were infrequently built after 600 AD, although Lombard Italy shows evidence of church building between 600 and 800 AD.
