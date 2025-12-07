@@ -26,8 +26,7 @@ Jean Hampton compares the social contracts created by Hobbes and a more modern l
 Ultimately presupposes a more moderate version of egoism than what Hobbes believed, giving way to moral rationality: Rather than absolute coercion as the solution to the PD equilibrium Hampton believes that Hobbes’ model of human nature is too pessimistic and overlooks mutual trust and connection between individuals.
 
 - Real-life example might include black-market transactions, where cooperation occurs without enforcement from the state
-
-## LeBuffe's Reply to the Fool
+## *LeBuffe: Reply to the Fool*
 
 Hobbes’ direct reply to the fool is that since keeping a covenant within the state of nature is irrational, any covenants established in the state of nature are not really covenants at all. However, Hobbes also presupposes that the social contract in itself is a form of covenant, demonstrating that genuine covenants are possible in the state of nature, LeBuffe argues that this makes it impossible to dismiss “state of nature” promises as non-covenants, since the social contract, according to Hobbes, is a type of genuine covenant. (Chicken-or-the-egg situation)
 - Subsequently, Hobbes’ reply to the fool can only be justified if he can ensure that it is always rational to keep one’s covenant.
