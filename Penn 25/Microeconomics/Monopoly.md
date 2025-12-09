@@ -10,7 +10,8 @@ See [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] to understand the deadweight loss 
 A monopoly will generally create a deadweight loss, however, the nature of this deadweight loss varies depending on the existence and social impact of externalities. The general trend is that monopolies produce below the quantity produced at market equilibrium for a higher price, creating DWL. But with the presence of negative externalities, it is also very possible that a monopoly will overproduce given the firm's goal is to maximize private benefit rather than social benefit. The result is that both taxes and subsidies are used should the monopoly fail to produce at $Q_E$.
 
 * A corrective tax is used if the $MSB<MSC$, where the $MSC$ is the result of negative externalities. This tax increases marginal private cost (MPC) for the firm and artificially reduces the supply to the socially efficient quantity.
-* If the $MSC<MSB$, the opposite is done where a government subsidy reduces the MPC, allowing the monopoly to increase supply and subsequently increase the social benefit to the socially efficient quantity.
+* If the $MSC<MSB$, the opposite is done where a government subsidy reduces the MPC, allowing the monopoly to increase supply and subsequently increase the social benefit to the socially efficient quantity. This subsidy is calculated as $MR=MPC-Subsidy$, where you can then solve for s.
+
 # Natural Monopoly
 A natural monopoly is a scenario in which it is inefficient to have perfect competition, a monopoly makes more sense than having too much bloat. Features:
 * Downward sloping ATC, since the majority of the cost is represented by the fixed cost (FC). See: **economies of scale.** As $Q\uparrow$, $ATC\downarrow$. 
