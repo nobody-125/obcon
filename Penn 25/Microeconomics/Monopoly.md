@@ -11,7 +11,6 @@ A monopoly will generally create a deadweight loss, however, the nature of this 
 
 * A corrective tax is used if the $MSB<MSC$, where the $MSC$ is the result of negative externalities. This tax increases marginal private cost (MPC) for the firm and artificially reduces the supply to the socially efficient quantity.
 * If the $MSC<MSB$, the opposite is done where a government subsidy reduces the MPC, allowing the monopoly to increase supply and subsequently increase the social benefit to the socially efficient quantity. This subsidy is calculated as $MR=MPC-Subsidy$, where you can then solve for s.
-
 # Natural Monopoly
 A natural monopoly is a scenario in which it is inefficient to have perfect competition, a monopoly makes more sense than having too much bloat. Features:
 * Downward sloping ATC, since the majority of the cost is represented by the fixed cost (FC). See: **economies of scale.** As $Q\uparrow$, $ATC\downarrow$. 
