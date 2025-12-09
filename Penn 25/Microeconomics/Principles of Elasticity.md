@@ -9,7 +9,9 @@ $$
 ![[Pasted image 20251208191104.png]]
 The majority of the time in questions, elasticity will be downward sloping (but linear as compared to unitary elastic demand). In a graph where elasticity is a linear downward sloping curve, the midpoint is considered to be unit elastic ($E_D=1$). Note that also as the demand curve becomes steeper, demand becomes more inelastic.
 
-E<sub>D</sub> 
+E<sub>D</sub> increases when:
+* Number of substitutes increase
+* 
 ##### Cross-Price Elasticity
 
 ### Income Elasticity

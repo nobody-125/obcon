@@ -26,7 +26,7 @@ $$
 Q\times(AC-MC)
 $$
 # Perfect Price Discrimination
-Perfect price discrimination: form of dynamic pricing where exchange takes place. In PPD, the demand curve equals marginal revenue ($Q_D=MR$). There is no deadweight loss from perfect price discrimination, however, all surplus goes to the producer. Therefore it is always socially efficient.
+Perfect price discrimination: form of dynamic pricing where exchange takes place. In PPD, the demand curve equals marginal revenue ($Q_D=MR$). There is no deadweight loss from perfect price discrimination, however, all surplus goes to the producer. Therefore it is always efficient, but not necessarily socially efficient given externalities. Also, markets under PPD are never equitable because consumer surplus is zero.
 
 To achieve PPD a firm must have:
 * Market power so the firm may dictate prices
