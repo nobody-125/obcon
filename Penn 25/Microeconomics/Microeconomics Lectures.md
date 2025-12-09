@@ -67,7 +67,7 @@ Quantity of supply = quantity demand
 	Set the market supply equation equal to the market demand equation to obtain an equilibrium quantity of 300, leading to a price of 30.
 * **Never set inverse demand equal to supply,** and never set inverse supply equal to demand. Must be INV/INV 
 ##### Market Efficiency & Short-Run Change
-Efficiency achieved when Marginal benefit = marginal cost
+Efficiency achieved when Marginal benefit = marginal cost ($MB=MC$).
 * MB represents consumer benefit
 * Maximized total surplus is represented by the triangle created between MC and MB; CS is the upper half of that triangle and PS is the lower half.
 Short-run change: e.g., petrol prices - reflecting change in supply and demand

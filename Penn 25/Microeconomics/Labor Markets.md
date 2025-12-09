@@ -11,3 +11,5 @@ According to the rational rule, employers will continue hiring until the wage, W
 
 > [!MARKET WAGE AND LAW OF DEMAND]
 > Note that in the graph, labor demand is downward sloping, since as the wage decreases, the employers will want to hire more employees. This phenomenon (law of demand) may explain why minimum wage hikes often times reduce the supply of jobs, since employers cannot necessarily afford to pay the same amount of employees a greater sum of money, and henceforth, the supply of jobs is reduced whilst the employee(s) that retain their jobs are entrusted with more responsibilities than if their wage was lower.
+##### Labor Supply Curve
+![[Pasted image 20251206174419.png]]

@@ -1,0 +1,4 @@
+## Monopolistic Competition
+Long-Run Characteristics:
+* If the firm makes a short-run profit, new firms will be attracted and offer similar goods. This influx of substitutes reduces demand for incumbent firms, shifting the demand curve to the left (steeper).
+* If the firm was profitable in the short-run, then in the long-run, the demand curve becomes tangent to the ATC curve, eventually meaning $P=ATC$. If there is a long-run equilibrium, the firm will reach zero economic profit (only normal profit). Since the firm is no longer producing at the lowest cost possible (vertex point), it's an inefficient equilibrium.
