@@ -1,4 +1,4 @@
 ### Good Kinds
-* Normal good:
-* Inferior good:
-* Luxury good:
+Economists classify goods into three categories based on how consumers' expenditure on them shifts as a result of the income and substitution effects.
+* Normal good: A good that has a perceived high quality or value. When consumer income is stronger (IE), consumers purchase more normal goods, when consumer income is weaker (SE), consumers tend to purchase fewer normal goods.
+* Inferior good: A good that has a perceived lower quality or value. When consumer income is stronger (IE), consumers purchase fewer inferior goods, when consumer income is weaker (SE), consumers tend to purchase more inferior goods.

@@ -11,7 +11,6 @@ While mainstream contractarianism is supposedly committed to the **moral equalit
 * The RC is epistemological, prescribing norms for cognition to which signatories must adhere. Because sanctioned reality diverges from actual reality in a racial polity, the RC requires an agreement to **misinterpret the world.**
 * Therefore, the RC prescribes an **inverted epistemology** or an **epistemology of ignorance**, resulting in cognitive dysfunctions and "structured blindnesses". 
 * White signatories live in an "invented delusional world" or a "racial fantasy land," where white misunderstanding, misrepresentation, evasion, and self-deception are pervasive mental phenomena necessary for conquest, colonization, and enslavement.
-
 ### Global Scope and Creation of White Supremacy
 
 According to Mills, the RC is **global**, involving a shift in the ethicojuridical basis of the planet, dividing the world between "men" and "natives" and consolidating global white supremacy. 
