@@ -53,4 +53,5 @@ Duchene proposes two potential solutions, the Coase Theorem, and gov't intervent
 ##### Coase Theorem
 The Coase theorem tries to provide a framework for how the issue of externalities might be solved without government intervention, through individual transaction. According to the theorem, iff property rights are well defined and transaction costs are low, a solution will arise to allocate resources in a socially efficient manner. 
 ##### Intervention - Taxes and Subsidies
-~
+If the government is attempting to correct the market where there is a marginal external cost, a tax will be used
+If the government is correcting the market where there is a external benefit, a subsidy will be used.
