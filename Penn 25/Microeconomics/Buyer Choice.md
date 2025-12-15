@@ -1,10 +1,10 @@
-### Opportunity Cost
+## Opportunity Cost
 Opportunity cost is calculated as the direct monetary cost of a choice, plus the net benefit of the next best choice:
 $$
 OC=DMC+NBA
 $$
 Where DMC = *direct monetary cost* and NBA = *net benefit of next best choice*
-### Good Kinds
+## Good Kinds
 Economists classify goods into three categories based on how consumers' expenditure on them shifts as a result of the income and substitution effects.
 * Normal good: A good that has a perceived high quality or value. When consumer's **actual income** is stronger (IE), consumers purchase more normal goods, when consumers' actual income is weaker (SE), consumers tend to purchase fewer normal goods. 
 * Inferior good: A good that has a perceived lower quality or value. When consumer's actual income is stronger (IE), consumers purchase fewer inferior goods, when consumer actual income is weaker (SE), consumers tend to purchase more inferior goods.
