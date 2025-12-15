@@ -18,9 +18,11 @@ $$
 If producers are creating positive EXTERNAL BENEFIT, it is represented by $MSC=MB-MEB$. Note that the curve is upward-sloping since the benefits created by producers increase with quantity:
 ![[Pasted image 20251110122325.png]]
 ## Socially Efficient Outcomes
-The rational rule for society governs that an item should be produced in larger quantities insofar that it confers greater marginal social benefits on society ($MSB \geq MSC$):
-* In perfect competition questions **where the externality is negative** $MSB=D$ and $MSC=MPC+MEC$. Therefore, to determine the socially efficient quantity, equate $MSB=(MPC+MEC)$. 
-* If the **externality is positive,** $MSB=D+MEB$, equate $MSB=MPC$ to determine the socially efficient quantity.
+The rational rule for society governs that an item should be produced in larger quantities insofar that it confers greater marginal social benefits on society:
+$$
+MPC+MEC=MR+MEB
+$$
+This equation summarizes how to calculate the socially efficient quantity in a market with externalities. If the externality is negative, $MEB=0$, and if the externality is positive, $MEC=0$. Simply substitute 0 for one of the values if the externality is one or the other and then solve.
 ### Loss from Negative Externalities
 ##### Calculating Social Surplus at the Socially Efficient Equilibrium
 * Knowing the socially efficient quantity makes it possible to determine social surplus, which is the sum of producer and consumer surplus ($PS+CS$). 
