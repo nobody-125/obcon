@@ -24,3 +24,6 @@ $$
 CS^T=\frac{1}{2}\times (P_{max}-P_{w})\times Q_{d}^{*}
 $$
 *Where $Q_s$ and $Q_d$ are the quantities supplied/demanded at the **world price.**
+
+> [!NOTE]
+> Sometimes, questions may ask whether the incidence of the tax or subsidy benefits/affects the producer or the consumer more. When the demand slope is steeper than the supply slope, the subsidy benefits the producer more and tax benefits the consumer more. When the supply slope is steeper than the demand slope, the subsidy benefits the consumer more and tax benefits the producer more.

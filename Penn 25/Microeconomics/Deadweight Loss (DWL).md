@@ -25,3 +25,11 @@ DWL is also calculated as the area of the triangle when graphed.
 Consider the following:
 ![[Pasted image 20251123195234.png]]
 * The graph above illustrates how the monopoly sells at quantity and price $Q_M + P_M$. The smaller output and higher price generate a wedge between MB (market demand curve) and MC. The gray area represents the DWL, as consumer surplus shrinks as a result of the higher prices and lower supply.
+##### Social Efficiency
+The following formulae can be used to calculate the size of tax or subsidy to achieve social efficiency:
+$$
+MR=MC-s
+$$
+$$
+MR=MC+t
+$$
