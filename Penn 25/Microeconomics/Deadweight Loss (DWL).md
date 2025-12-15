@@ -21,8 +21,6 @@ $$
 DWL=\frac{1}{2} \times (P_d-P_s)(Q_e-Q_s)
 $$
 DWL is also calculated as the area of the triangle when graphed.
-## Deadweight Loss from Free Trade
-~
 ## Deadweight Loss from Monopoly
 Consider the following:
 ![[Pasted image 20251123195234.png]]
