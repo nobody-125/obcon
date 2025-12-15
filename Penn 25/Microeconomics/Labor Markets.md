@@ -1,5 +1,5 @@
 There exists one more market that is unique from the markets that belong to the majority of goods and services, that is the labor market itself. While labor itself can be considered a service, the relevance of said service is directly tied to the demand for the services produced by that labor. 
-### Marginal Product of Labor
+## Marginal Product of Labor
 The effectiveness of labor is often framed through either marginal product of labor, or its cousin, the marginal revenue product of labor:
 * **Marginal Product of Labor:** The additional output produced from hiring an additional worker
 * **Marginal Revenue Product of Labor:** The marginal revenue from hiring an additional worker. The  MRP<sub>L</sub>, is calculated by $MRP_L=MP_L\times MR$. The marginal cost is represented by the wage, W. 
