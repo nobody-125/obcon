@@ -20,7 +20,7 @@ According to the rational rule, employers will continue hiring until the wage, W
 A monopsony arises in a market where one employer has total market power over the labor parket. In a monopsony, the employer hires the amount of labor (L<sub>M</sub>) at the point where the marginal revenue product equals the marginal cost of labor ($MRP_L=MC_L$). 
 * The MC<sub>L</sub> is equals to the slope for L<sub>M</sub> times two, aka $y=2\times(mx)+b$.
 * The $MRP_L$ is derived from $MR\times MP_L$. 
-
+![[Pasted image 20251215111446.png]]
 > [!NOTE]
 > Note that in a perfectly competitive market, $P=MC=MR$, subsequently, price can be derived from $MC=MR$ *if the question explicitly states that the market is perfectly competitive*.
 
