@@ -57,3 +57,4 @@ The Coase theorem tries to provide a framework for how the issue of externalitie
 ##### Intervention - Taxes and Subsidies
 * If the government is attempting to correct a perfectly competitive market where there is a marginal external cost, a tax equal to the *MEC* will be used ($t=MEC$)
 * If the government is correcting the perfectly competitive market where there is a external benefit, a subsidy will be used ($s=MEB$).
+However, if the market is a [[Monopoly|MONOPOLY]], a different course of action is required.
