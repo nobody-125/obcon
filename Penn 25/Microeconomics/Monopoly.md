@@ -3,7 +3,7 @@ A MONOPOLY often refers to when a market is dominated by one firm or party, who 
 The demand curve remains unaffected should a perfectly competitive market be converted into a monopoly. However, market supply (MC) and equilibrium are affected since **the market supply curve becomes the marginal cost curve (MC).** The result is that a monopoly produces less and charges more compared to perfect competition. Furthermore, because of the nature of monopolies, higher barriers to entry make entering the market significantly more difficult for potential competitors, making a monopolist's economic profits higher than the total of competitive firms' profits.
 
 See [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] to understand the deadweight loss that might be created from a monopoly.
-# Monopoly Profit Maximization
+## Monopoly Profit Maximization
 * **Note that a monopoly does not have a supply curve,** since the supply curve represents the quantity supplied at a particular price. In a monopoly the profit-maximizing quantity is determined where $MC=MR$. Note, however, that the monopoly will not price the good at the marginal cost, since the firm affords to charge what the market values their good at. This is in contrast to perfect competition where the profit-maximizing price is determined at $Q_D=MC$.
 * Changes in fixed costs will never affect production or pricing conditions. However, they can affect total costs and subsequently affect profits. Changes in variable costs can affect the marginal cost at each level of output. As $\downarrow MC$, monopoly price decreases, and as $\uparrow MC$, monopoly price increases.
 ##### Efficiency and Externalities
@@ -11,7 +11,7 @@ A monopoly will generally create a deadweight loss, however, the nature of this 
 
 * A corrective tax is used if the $MSB<MSC$, where the $MSC$ is the result of negative externalities. This tax increases marginal private cost (MPC) for the firm and artificially reduces the supply to the socially efficient quantity.
 * If the $MSC<MSB$, the opposite is done where a government subsidy reduces the MPC, allowing the monopoly to increase supply and subsequently increase the social benefit to the socially efficient quantity. This subsidy is calculated as $MR=MPC-Subsidy$, where you can then solve for s.
-# Natural Monopoly
+## Natural Monopoly
 A natural monopoly is a scenario in which it is inefficient to have perfect competition, a monopoly makes more sense than having too much bloat. Features:
 * Downward sloping ATC, since the majority of the cost is represented by the fixed cost (FC). See: **economies of scale.** As $Q\uparrow$, $ATC\downarrow$. 
 * When ATC is downward sloping, the MC curve is below that of the ATC.
@@ -25,7 +25,7 @@ The formula for FC **and the subsidy necessary to offset the lost fixed cost** i
 $$
 Q\times(AC-MC)
 $$
-# Perfect Price Discrimination
+## Perfect Price Discrimination
 Perfect price discrimination: form of dynamic pricing where exchange takes place. In PPD, the demand curve equals marginal revenue ($Q_D=MR$). There is no deadweight loss from perfect price discrimination, however, all surplus goes to the producer. Therefore it is always efficient, but not necessarily socially efficient given externalities. Also, markets under PPD are never equitable because consumer surplus is zero.
 
 To achieve PPD a firm must have:
