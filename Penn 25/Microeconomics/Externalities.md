@@ -3,10 +3,10 @@ EXTERNALITIES are the side effects generated from an exchange or activity, these
 ##### Negative Costs from Production
 In the context of SELLER CHOICE, marginal cost (MC) referred to private costs for the firm in operation - cost of labor, purchasing supplies, transportation. Externalities extend this definition by including the **marginal social cost,** taking into effect the positive or negative effects that operation might have on society.
 $$
-MSC=MC+MEC
+MSC=MPC+MEC
 $$
-Where MSC is marginal social cost, MC is marginal private cost, and MEC is the marginal external cost.
-The MEC is represented as the difference in height between the private cost/benefit and the social benefit:
+Where *MSC* is marginal social cost, *MPC* is marginal private cost, and *MEC* is the marginal external cost.
+The *MEC* is represented as the difference in height between the private cost/benefit and the social benefit:
 ![[Pasted image 20251110121857.png]]
 ##### Negative Costs from Consumers
 Similar to marginal cost is **marginal private benefit** (MB), the personal satisfaction gained from consuming one more unit of a good or service. The marginal private benefit curve equals the demand curve ($MB=Q_d$). The **marginal social benefit** accounts for the potential harm caused by consumption of these goods:
@@ -19,7 +19,8 @@ If producers are creating positive EXTERNAL BENEFIT, it is represented by $MSC=M
 ![[Pasted image 20251110122325.png]]
 ## Socially Efficient Outcomes
 The rational rule for society governs that an item should be produced in larger quantities insofar that it confers greater marginal social benefits on society ($MSB \geq MSC$):
-![[Maximize surplus.png]]
+* In perfect competition questions **where the externality is negative** $MSB=D$ and $MSC=MPC+MEC$. Therefore, to determine the socially efficient quantity, equate $MSB=(MPC+MEC)$. 
+* If the **externality is positive,** $MSB=D+MEB$, equate $MSB=MPC$ to determine the socially efficient quantity.
 ### Loss from Negative Externalities
 ##### Calculating Social Surplus at the Socially Efficient Equilibrium
 * Knowing the socially efficient quantity makes it possible to determine social surplus, which is the sum of producer and consumer surplus ($PS+CS$). 
