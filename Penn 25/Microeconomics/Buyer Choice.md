@@ -12,5 +12,7 @@ Economists classify goods into three categories based on how consumers' expendit
 Likewise, they may be classified into the categories of luxuries and ordinary goods:
 * Luxury: A subset of normal goods with a higher INCOME ELASTICITY, when actual income is higher, demand for it rises more than proportionally ($E_D>1$).
 * Ordinary good: A kind of good for which quantity demanded decreases when its **own price** increases.
-##### Substitutes vs. Complements
+### Substitutes vs. Complements
 Goods are split into two categories, complements and substitutes, in the majority of cases, this is an either-or situation (if one is to only consume two kinds of goods). 
+##### Indifference Curves
+Indifference curves represent a consumer's bundles of consumption depending on how they view a pair of goods.
