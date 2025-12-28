@@ -1,0 +1,11 @@
+- Conjunction introduction:
+	- $A:R1$
+	- $B:R2$
+	- $A\rightarrow B:\,\rightarrow I\,3-4$
+- Conjunction elimination:
+	- $A\land B:R1$
+	- $A:\land\,\exists\, 2$
+- Conditional elimination:
+	- $A\rightarrow B:R1$
+	- $A:R2$
+	- $B:\,\rightarrow \exists\,4,3$
