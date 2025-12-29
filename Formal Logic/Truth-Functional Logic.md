@@ -1,4 +1,4 @@
-- Conjunction introduction:
+ple- Conjunction introduction:
 	- $A:R1$
 	- $B:R2$
 	- $A\rightarrow B:\,\rightarrow I\,3-4$
