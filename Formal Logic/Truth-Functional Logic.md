@@ -9,3 +9,13 @@
 	- $A\rightarrow B:R1$
 	- $A:R2$
 	- $B:\,\rightarrow \exists\,4,3$
+##### Examples
+$P\rightarrow R\therefore (P\lor Q)\rightarrow((Q\rightarrow R)\rightarrow R)$ 
+1. $P\rightarrow R$
+	2. $P\lor Q$
+		3. $Q\rightarrow R$
+			4. $P:\text{AS}$
+			5. $R:\,\rightarrow \exists\, 4,1$ 
+			6. $Q:\,\text{AS}$
+			7. $R:\,\rightarrow\exists6,3$
+			8. . 
