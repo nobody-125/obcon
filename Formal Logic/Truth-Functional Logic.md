@@ -1,14 +1,31 @@
+- Conditional introduction:
+	- $P:\text{R}1$
+	- $Q:\text{R}2$
+	- $P\rightarrow Q:\,\rightarrow \text{I}\,3-4$
+-  Conditional elimination:
+	- $P\rightarrow Q:\text{R}1$
+	- $P:\text{R}2$
+	- $Q:\,\rightarrow \exists\,4,3$
 - Conjunction introduction:
-	- $A:R1$
-	- $B:R2$
-	- $A\rightarrow B:\,\rightarrow I\,3-4$
+	- $P:\text{R}1$
+	- $Q:\text{R}2$
+	- $P\land Q:\land\,\text{I}\,3-4$
 - Conjunction elimination:
-	- $A\land B:R1$
-	- $A:\land\,\exists\, 2$
-- Conditional elimination:
-	- $A\rightarrow B:R1$
-	- $A:R2$
-	- $B:\,\rightarrow \exists\,4,3$
+	- $P\land Q:\text{R}1$
+	- $P:\land\,\exists\, 2$
+- Disjunction introduction:
+	-  $P:\text{R}1$
+	- $Q:\text{R}2$
+	- $P\lor Q:\lor\,\text{I}\,3-4$
+- Disjunction elimination:
+	- $P\lor Q:\text{R}\,1$
+		- $P:\text{AS}$
+		- ...
+		- $C$
+		- $Q:\text{AS}$
+		- ...
+		- $C$
+	- $C:\lor\,\exists\,2,3-5,6-7$
 ##### Examples
 $P\rightarrow R\vdash (P\lor Q)\rightarrow((Q\rightarrow R)\rightarrow R)$ 
 1. $P\rightarrow R$
