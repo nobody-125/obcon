@@ -1,3 +1,4 @@
+##### Truth-Functional
 
 | Symbol        | Name          | Meaning   |
 | ------------- | ------------- | --------- |
