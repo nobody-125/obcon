@@ -1,6 +1,6 @@
 # Obsidian Repository
 Personal repository for notes made in Obsidian.
-### Download and Sync
+### Download
 Download Obsidian and the git plugin from the plugins menu. Ensure that git is enabled in Obsidian and that git is installed on the device and set up (username and email):
 * `git config --global user.name 'name'`  
 * `git config --global user.email 'nobody@gmail.com'`
