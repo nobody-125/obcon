@@ -1,5 +1,5 @@
 # Week of 2026-01-11
-## Summary
+## Lecture 01
 A trust is a firm that is extremely large by historical standards. The antitrust would appear to most commonly refer to the use of government intervention and law to prevent or disrupt the growth and/or existence of a trust.
 
 Antitrust is most often used in markets where there are a small number of firms and when a monopoly will lead to market inefficiency.
@@ -19,3 +19,24 @@ Perspective that merger and integration create no inefficiency at all
 Monopoly: Originally defined as an exclusive grant from the government, Sherman Act expands this definition to refer to a dominant firm. It usually refers to the provision of services or goods, not the firm providing them, and relates to relative dominance instead of absolute size. For one, Amazon is a company of immense power and which has the ability to take advantage of economies of scale, but legally, because it is not providing a particular "product", there is no decision that has defined it as a monopoly.
 
 Without taking into account marginal social cost and benefit, monopoly and oliogpoly tend to create inefficiencies. The supply is often reduced and market price is increased. The Sherman Act attempts to reduce these inefficiencies by completely outlawing the restraint of trade and monopolization insofar as the nature of such activity is anticompetitive. 
+# Week of 2026-01-18
+### Reading
+- Imprecise use of the phrase AI, does this refer to generative AI
+## Lecture 02
+### Market Share vs. Market Power
+It may be the case that market power is a function of market share
+##### Insufficient Reasons to Support Antitrust in Big Tech
+- **Fake News:** Information is unfiltered when presented on social media and rules and guidelines for what one can disseminate are rarely enforced. However, insofar as such an aspect of the networks does not create inefficiencies, antitrust does not need to be concerned with it.
+- **Competition:** Commerce online is incredibly competitive, with websites like Amazon serving as a ground for merchants to compete. However, antitrust law contains no statutes that contain any kind of conception of "welfare".
+
+Antitrust laws are only used in situations where a monopoly has the power to:
+- Reduce market output
+- Raise price unnecessarily
+- Restrain innovation
+### Fashion Originators Guild
+The Fashion Originators Guild (FOGA) was a trade association of manufacturers of original fashion designs who suffered from others making "pirates" and illegitimate copies of their clothing designs. Because designer clothes by themselves cannot be patented under U.S. patent law, FOGA members agreed to boycott sellers and distributors that sold knockoffs. 
+##### Intellectual Property and Copyright
+Intellectual property and copyright laws define government-granted monopolies on information and free speech, with intellectual property laws offering a 20-year exclusive right to an invention and copyright laws offering 70 years, in addition to the lifetime of the holder of the copyright. While copyright laws did not exist at the time of FOGA v. FTC (1941), the U.S. constitution granted Congress the power to "secure for Limited Times to authors and Inventors the Exclusive Right to their Respective Writings and Discoveries". 
+
+By creating a private "design registration" system in which manufacturers determine how they want to enforce protection of their own design, the FTC concluded that FOGA was attempting to create a private intellectual property right that was not provided by the law. However, the federal government reserves the exclusive right to determine if an idea is "patentable", not even individual states have such a power.
+FOGA was found by the FTC to be in violation of § 1 of the Sherman Act.

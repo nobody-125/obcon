@@ -1,4 +1,4 @@
-A market with an OLIGOPOLY provides only a handful of sellers. It arises from the same barriers to entry that [[MONOPOLY|MONOPOLIES]] arise from, in this way, it can be considered a weaker form of a monopoly.
+A market with an OLIGOPOLY provides only a handful of sellers. It arises from the same barriers to entry that [[Monopoly|MONOPOLIES]] arise from, in this way, it can be considered a weaker form of a monopoly.
 ## Payoff Matrix
  The PAYOFF MATRIX is a table illustrating the actions of a number of agents, where each agent's actions results in a different payoff. 
  * A dominant strategy is when a choice is the most rational action regardless of the action taken by the other player, think of the maximin principle.

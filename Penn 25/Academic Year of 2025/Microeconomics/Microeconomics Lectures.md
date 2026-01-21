@@ -29,7 +29,7 @@ CONTACT: econ-0100@sas.upenn.edu
 	* if MR exceeds MC, profit will increase
 	* **Profit is maximized at $MR=MC$.
 ##### Marginal Revenue
-* According to [[obcon/Penn 25/Microeconomics/Principles of Elasticity|PRINCIPLES OF ELASTICITY]], demand is unit-elastic (assuming linear demand curve). At the midpoint, marginal revenue is zero. Above this point, demand will be elastic and marginal revenue positive, below, demand will be inelastic and marginal revenue negative.
+* According to [[Principles of Elasticity|PRINCIPLES OF ELASTICITY]], demand is unit-elastic (assuming linear demand curve). At the midpoint, marginal revenue is zero. Above this point, demand will be elastic and marginal revenue positive, below, demand will be inelastic and marginal revenue negative.
 ##### Demand
 * **Elasticity** affects demand; more sellers leads to more elasticity because there are a greater number of substitutes
 * However, since products remain differentiated, demand will never be perfectly elastic, unless if all firms sell identical products.
@@ -44,7 +44,7 @@ $$
 	* Entry will continue until profits are zero, **when demand is tangent to ATC.**
 	
 ### Maximizing Efficiency
-See: [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] and [[obcon/Penn 25/Microeconomics/Economic Surplus|ECONOMIC SURPLUS]].
+See: [[Deadweight Loss (DWL)|DEADWEIGHT LOSS]] and [[Economic Surplus|ECONOMIC SURPLUS]].
 # Econ Lecture 11
 ### Changes in Supply
 * Fixed costs do not change marginal cost: FC cannot affect supply
@@ -78,10 +78,10 @@ Short-run change: e.g., petrol prices - reflecting change in supply and demand
 * **[[Deadweight Loss (DWL)]]:** The reduction in **total surplus** that occurs as a result of market inefficiency.
 ##### Effective Controls
 * Only a price ceiling that forces price below equilibrium will have any effect, as depicted in the graph below:
-![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022141956.png]]
+![[Pasted image 20251022141956.png]]
 * **Deadweight loss is greater** when supply-demand is elastic.
 * Likewise, price floors are only effective when they force price above equilibrium:
-![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022142159.png]]
+![[Pasted image 20251022142159.png]]
 ##### Disequilibrium
 Calculating disequilibrium assumes the following knowledge:
 * Price floor/ceiling
@@ -126,13 +126,13 @@ Subsidies are calculated in a manner similar to how taxes are.
 * A subsidy given to sellers shifts the seller supply curve right/down
 * Buyers now pay a lower price, but sellers receive more since they are subsidized by the government
 ##### Effect on Surplus
-* [[obcon/Penn 25/Microeconomics/Economic Surplus|ECONOMIC SURPLUS]] is the consumer surplus triangle (CS) + producer surplus (PS) ($CS+PS$)
+* [[Economic Surplus|ECONOMIC SURPLUS]] is the consumer surplus triangle (CS) + producer surplus (PS) ($CS+PS$)
 * **Consumer Surplus:** Upper triangle will expand because of subsidy, increasing CS
 * **Producer Surplus:** Area below the price received, will massively expand
 * This means that both the CS and PS triangles will overlap, this overlapping area is what is subsidized by the government.
 * The result is that the overlapping area represents gov't expenditure.
 ##### Surplus Represented by Graph
-![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022125128.png]]
+![[Pasted image 20251022125128.png]]
 * Observe that consumer surplus before would be A+ the area between the equilibrium latitude, now it is A+B+E after the subsidy. Likewise, producer surplus would be expanded from C+ the area between equilibrium attitude.
 * $TS=A+B+E+B+C+D=A+2B+C+D$, subtract the government subsidy cost to get the actual TS of $A+B+C-F$
 * Area F represents DWL from the subsidy
