@@ -23,7 +23,7 @@ Without taking into account marginal social cost and benefit, monopoly and oliog
 ### Reading
 - Imprecise use of the phrase AI, does this refer to generative AI
 ## Lecture 02
-### Market Share vs. Market Power
+## Market Share vs. Market Power
 It may be the case that market power is a function of market share
 ##### Insufficient Reasons to Support Antitrust in Big Tech
 - **Fake News:** Information is unfiltered when presented on social media and rules and guidelines for what one can disseminate are rarely enforced. However, insofar as such an aspect of the networks does not create inefficiencies, antitrust does not need to be concerned with it.
@@ -33,10 +33,9 @@ Antitrust laws are only used in situations where a monopoly has the power to:
 - Reduce market output
 - Raise price unnecessarily
 - Restrain innovation
-### Fashion Originators Guild
+## Fashion Originators Guild
 The Fashion Originators Guild (FOGA) was a trade association of manufacturers of original fashion designs who suffered from others making "pirates" and illegitimate copies of their clothing designs. Because designer clothes by themselves cannot be patented under U.S. patent law, FOGA members agreed to boycott sellers and distributors that sold knockoffs. 
-##### Intellectual Property and Copyright
+### Intellectual Property and Copyright
 Intellectual property and copyright laws define government-granted monopolies on information and free speech, with intellectual property laws offering a 20-year exclusive right to an invention and copyright laws offering 70 years, in addition to the lifetime of the holder of the copyright. While copyright laws did not exist at the time of FOGA v. FTC (1941), the U.S. constitution granted Congress the power to "secure for Limited Times to authors and Inventors the Exclusive Right to their Respective Writings and Discoveries". 
 
 By creating a private "design registration" system in which manufacturers determine how they want to enforce protection of their own design, the FTC concluded that FOGA was attempting to create a private intellectual property right that was not provided by the law. However, the federal government reserves the exclusive right to determine if an idea is "patentable", not even individual states have such a power.
-FOGA was found by the FTC to be in violation of § 1 of the Sherman Act.
