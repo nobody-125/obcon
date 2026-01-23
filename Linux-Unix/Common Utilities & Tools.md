@@ -21,6 +21,12 @@
 	* `rm -rf:` Remove a directory and all its contents
 * `touch`: Create a file
 *  `whereis` shows full path of (shell) commands
+##### System information
+- `cat /sys/class/power_supply/BAT0/capacity`: Show battery capacity
+- `uname`: Print system information
+	- `uname -r`: Current kernel version
+- `uptime`: Show system uptime
+- `whoami`: Display current user
 ## Transferring Data
 * `curl`: transfer data from the internet
 * `wget`: transfer data from websites
