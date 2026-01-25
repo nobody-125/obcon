@@ -1,4 +1,4 @@
-# Week of 2026-01-11
+# 00 Week of 2026-01-11
 ## Lecture 01
 A trust is a firm that is extremely large by historical standards. The antitrust would appear to most commonly refer to the use of government intervention and law to prevent or disrupt the growth and/or existence of a trust.
 
@@ -19,7 +19,7 @@ Perspective that merger and integration create no inefficiency at all
 Monopoly: Originally defined as an exclusive grant from the government, Sherman Act expands this definition to refer to a dominant firm. It usually refers to the provision of services or goods, not the firm providing them, and relates to relative dominance instead of absolute size. For one, Amazon is a company of immense power and which has the ability to take advantage of economies of scale, but legally, because it is not providing a particular "product", there is no decision that has defined it as a monopoly.
 
 Without taking into account marginal social cost and benefit, monopoly and oliogpoly tend to create inefficiencies. The supply is often reduced and market price is increased. The Sherman Act attempts to reduce these inefficiencies by completely outlawing the restraint of trade and monopolization insofar as the nature of such activity is anticompetitive. 
-# Week of 2026-01-18
+# 01 Week of 2026-01-18
 ### Reading
 - Imprecise use of the phrase AI, does this refer to generative AI
 ## Lecture 02
