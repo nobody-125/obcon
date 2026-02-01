@@ -35,3 +35,13 @@ Although he maintains that the system of justice is obligated to follow Civil La
 Obligation to Civil Law is not necessarily consensual, furthermore, private individuals cannot enforce laws upon other individuals without it being sufficiently verified. No one can violate or weaken the power that the sovereign maintains. 
 ##### Interpretation of the Law
 The authentic interpretation of the law is not that of writers of moral philosophy, since the diverse volumes of interpretations of the law would lead to conflicts in cases. Instead, the interpreter of the law is the judge who is giving sentence *viva voce* in every particular case. However, the court is not obligated to follow decisions in previous court cases, but instead to interpret the law in the context of each individual case.
+## Hart, *The Concept of Law*, Chapter 2
+##### Varieties of Imperatives
+Intuitively, the concept of law is broken down into the concept of commands and habits. There exist a variety of manners in which an individual expresses their wishes to someone else, which Hart derives from Austin, *Providence of Jurisprudence Determined*. Discrimination between each of these imperative forms illustrates how different forms are used in different contexts. For one, a **plea** is used in a situation where the speaker is at the mercy of another individual who has the power to release him. The opposite situation would be more akin to an **order,** in which the speaker likely has the ability to secure compliance with his expressed wish (with a threat).
+
+In other words, the context of authority and deferrence would seem to attach itself to the words "plea", "order", "obedience". However, to immediately conclude that a threat must be present in the context for an individual to remain obedient. 
+##### Law as Coercive Order
+The next step is to discriminate between the law and the "gunman example", where a gunman orders a clerk to hand over money. Within such an order is an address to the clerk, which is why a gunman uttering the same order in an empty room does not necessarily count as an "order".
+- General habitat of obedience
+- Temporal consistency
+- not sure
