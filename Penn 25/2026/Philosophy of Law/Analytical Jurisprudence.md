@@ -1,3 +1,5 @@
+Lecture and reading notes for first half of spring semester: Phil 1450, Philosophy of Law
+# Week 02
 ## Scott Shapiro, *Legality* Chapter 2
 Shapiro discusses the difficulties in the formation of a contract that defines law:
 - Some body has power to create legal norms iff an existing norm confers that power.
@@ -13,3 +15,23 @@ Naturalism vs. Positivism: Is the possibility of law derived from inherent unive
 Hume's law asserts that one cannot normative statements (obligatory) from descriptive statements (it is the case). Shapiro uses the example of a father and a toddler; if the father tells the toddler to do something, the toddler may reply with, "Why should I?". The father may respond with, "Because I am your father", or "Because children always listen to their parents". The so-called DINO pattern (descriptive in, normative out) violates Hume's law. Factual premises, subsequently, cannot lead to normative conclusions. 
 
 This does mean that neither naturalism nor positivism are possible, since a legal philosopher who believes that all law is derived from naturalism overlooks the existence of legal systems that are mutually agreed to have been evil, for instance, the laws conferred until the citizens of Nazi Germany or the Soviet Union, while laws derived from positivism must deal with the fact that obligations cannot be derived from simple factual statements.
+# Week 03
+## Thomas Hobbes, *Leviathan*, Chapter 26, pp. 183-92
+### Hobbesian Civil Law
+- The Law is a construct of the "legislator", which may be elected by the sovereign.
+- The sovereign is not subject to the Law.
+- Laws are not necessarily bound to time, but rather, enforced at the discretion of the sovereign.
+- The Law of Nature and the Civil Law contain each other, and are of equal extent.
+	- "Lawes of Nature" consist of natural law; Hobbes assumes that there exist inherent morals in nature.
+	- "Civil Law" consists of *de jure* rules that civilians are subjected to by the sovereign.
+- If a sovereign or regime falls to another sovereign, the subjects of the "Vanquished Common-wealth" are subjected to the Civil Law of the victor.
+- There exists *Force* and *Justice*, in which force, derived from the divine right to rule, elects the parliament to represent the Civil Law, but the parliament lacks the ultimate authority to command and govern.
+- The Law cannot contradict itself and it has to make sense.
+- The Law can only exist if there is a body to enforce it; if the law is not known, obeyed and enforced, then there does not exist law (Possibility Puzzle).
+##### Law of Nature and it's Relationship with Civil Law
+The Law of Nature refers to the natural laws that Hobbes presumes simply exist and are derived from inherent morals. Hobbes provides several examples of these, the first being that one treats others the way they want to be treated. 
+Although he maintains that the system of justice is obligated to follow Civil Law, due to the way in which the Law of Nature and Civil Law contain each other, those working under the sovereign are bound to the Law of Nature.
+
+Obligation to Civil Law is not necessarily consensual, furthermore, private individuals cannot enforce laws upon other individuals without it being sufficiently verified. No one can violate or weaken the power that the sovereign maintains. 
+##### Interpretation of the Law
+The authentic interpretation of the law is not that of writers of moral philosophy, since the diverse volumes of interpretations of the law would lead to conflicts in cases. Instead, the interpreter of the law is the judge who is giving sentence *viva voce* in every particular case. However, the court is not obligated to follow decisions in previous court cases, but instead to interpret the law in the context of each individual case.
