@@ -58,7 +58,7 @@ Open source and GPL, distinct from public domain but eases the dissemination of 
 The alternative definition is through considering the demand elasticity ($E_D$) or the company's ability to price discriminate. 
 
 The Federal Trade Commission chose to challenge Meta on the grounds of the Sherman Act, rather than the more aggressive Clayton Act, even though it was possible (and rational) for them to challenge them on the basis of both the Sherman and Clayton Acts.
-#### Main Interest of Users
+#### Identifying Market Share
 When Facebook was created it's main interest was to connect friends and family. The court reached the decision that the modern interest today is short videos. Likewise, substitution data illustrated that users substituted between Facebook and services not relevant to the identified market (e.g., Facebook and YouTube) significantly more than substituting between Facebook and services that are relevant. 
 ##### Brown Shoe Factors (United States v. Brown Shoe, 1962)
 Attempt by government to block the merger between two shoe companies on the basis of violation of the Clayton Act through the lessening of competition.
@@ -68,3 +68,26 @@ Attempt by government to block the merger between two shoe companies on the basi
 - Specialized vendors and distinctive customers: If a vendor for a specific kind of customer also provides or bundles their discriminated product with other generalized products (e.g.,  Apple shipping a kind of computer with a radically newly-designed proprietary chipset with some Chinese-manufactured keyboard and 3-button mouse), is the Vendor also considered to have a monopoly over those products as well?
 - Peculiar characteristics and uses
 - Industry and public recognition
+##### Decision
+There exists other ways to measure market share; barriers to entry, for instance, possess the capability to help one body maintain it's market power. However, because it is the case that in 2018, TikTok entered the U.S. market, challenging Facebook's position in the market, it would appear as if such barriers to entry were not powerful enough to deny the existence of competitors.
+
+It was further identified that market shares in digital markets are exaggerated, because of the fact that digital economies scale significantly faster. The difference is further highlighted when taken into consideration that a monopoly should make it difficult to replace the dominant firm's output as a result of vertical integration. However, this is not the case for Meta.
+# 03 Week of 2026-02-01
+## Lecture 04
+### American Can and Monopolization
+- Took advantage of economies of scale through technology and the assembly line
+- Aggregation by merger by purchasing rivals at higher prices, only to shut them down upon acquisition, with a 3000-mile noncompetition agreement: rivals that were purchased could not restart operations within a 3000-mile radius of the factories that American Can owned.
+- Most favored nation (MFN) clause; companies cannot price discriminate across different vendors (e.g., Amazon: merchants cannot charge lower prices through other vendors)
+- Purchased patents on superior can-producing machinery to make it impossible for rivals to access them, henceforth raising rivals' costs
+- If producers did not comply, American Can would begin a price war with them, forcing them to produce at such a low price that they would eventually go bankrupt.
+
+Some of the benefits that were conferred upon the country had to be taken into consideration as well. Because bigger economies of scale generally lead to downward price movement, American Can was capable of providing goods at an aggressively lower price than its competitors. The same general trend can be observed with big tech; YouTube (and Google), for instance, offer immensely high-quality services at no direct cost for the individual, although this is obviously at the cost of more inefficient, inflexible competitors.
+
+> [!NOTE] 
+> Of particular concern (from another student in this lecture hall) is the concept that litigation of trust is an ineffective strategy of challenging monopolies in particular markets. The results of stifling monopoly through legislation is clear in the European Union, where the scaling of technology and business is significantly slower than it is in the United States. This may be apparent with the growth of generative AI in the U.S., with the EU struggling to scale at the same pace as the U.S. has.
+
+Subsequent of American Can believing that it had achieved monopoly of the market, the price was raised dramatically above the equilibrium price. At this point, it had again become profitable for competitors to enter the market to reduce the market price down to the initial price, replacing the deadweight loss that had arisen as a result of the monopoly. The result was that by the time of litigation the market share had fallen to 50%. 
+
+However, the relevance of cans would decrease as bottling became a legitimate alternative to the service that canning at one point served. These unforeseen consequences would eventually mean that no breakup remedy was ever used with American Can. Breakup remedies, however, have been continually attempted. 
+### Antitrust and Economics
+While it is not the case that "antitrust economics" is recognized as its own branch of economics, it can be loosely categorized as a branch of microeconomics. It is generally not the case that bodies like OPEC can be challenged with antitrust law, since such producers are subsets of other nations' governments, subsequently, they are not necessarily bound to the laws governing the production and export of natural resources within the United States. Furthermore, it takes place in markets that are perfectly competitive and where products remain, to at least some degree, differentiated. 
