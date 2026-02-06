@@ -15,6 +15,8 @@ Nenek moyang: Ancestor
 | Pelaut          | Sefarer          |
 | Nenek moyang    | Ancestor         |
 | Waktu yang sama | At the same time |
+| Saat            | Moment           |
+Saat ini... (In this moment...)
 ##### Review
 
 Tante/bibi
@@ -53,3 +55,23 @@ Para: Those (in context of people), indication of plural (in the event that repe
 - Para peneliti: Researcher*s*
 Memastikan: Verify
 Nyata: Real, physical, concrete
+## Objek
+Untuk diriset:
+- Austroasiatic carrying basket: common kind of basket in Southeast Asia
+- Rattan weaving physics
+- Domestication of bottle gourd
+- Coconut - [History, uses and folklore](https://www.researchgate.net/publication/290976239_Coconut_-_History_uses_and_folklore)
+
+Todo: Membuat deskripsi untuk objek: warna, bentuk, tekstur, usia, detil kecil, ukuran dan asal. 
+
+"Topik ini sangat bersejarah": The topic is very historical.
+##### Yang
+It is most often a conjunction that roughly translates to "that", however, it can also be used as "which".
+- "Pohon yang berdaun." (Tree that has leaves)
+##### Ber- Prefix
+The ber- prefix turns a word an adjective. It can replace "punya" in many contexts.
+ - Sejarah: history, bersejarah: historical, to have a valuable history
+##### Se- Prefix
+Contextualizes something and makes it relative to something
+- Sebesar: As large as...
+
