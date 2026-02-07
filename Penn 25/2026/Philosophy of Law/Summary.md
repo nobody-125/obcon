@@ -21,14 +21,14 @@ This does mean that neither naturalism nor positivism are possible, since a lega
 - **The Law can only exist if there is a body to enforce it:** if the law is not known, obeyed and/or enforced, then there does not exist law (Possibility Puzzle).
 - **The sovereign is not subject to the Law:** Law is the command of the sovereign (P). If Law is a command of the sovereign, the sovereign is not bound to the Law.($P\rightarrow Q$). Therefore, the sovereign is not bound to the Law. ($Q; \rightarrow E1-2$)
 - **The Law of Nature and the Civil Law contain each other:** "Lawes of Nature" consist of natural law; Hobbes assumes that there exist inherent morals in nature. "Civil Law" consists of *de jure* rules that civilians are subjected to by the sovereign.
-- **Legal Interpretation:** There exists *Force* and *Justice*, in which force, derived from the divine right to rule, elects the parliament to represent the Civil Law, but the parliament lacks the ultimate authority to command and govern. Following from this, within the interpretation of the Law must be rationality and sensibility (aka, it shouldn't contradict itself, and should be interpretable by the justice system).
+- **Legal Interpretation:** There exists *Force* and *Justice*, in which force, derived from the divine right to rule, elects the parliament to represent the Civil Law, but the parliament lacks the ultimate authority to command and govern. Following from this, the interpretation of the Law is subjected to rationality and sensibility (aka, it shouldn't contradict itself, and should be interpretable by the justice system).
 ##### Separation of Law and Morals
 The Law of Nature refers to the natural laws that Hobbes presumes simply exist and are derived from inherent morals. Although he maintains that the system of justice is obligated to follow Civil Law, due to the way in which the Law of Nature and Civil Law contain each other, those working under the sovereign are bound to the Law of Nature.
 ##### Interpretation of the Law
 The authentic interpretation of the law is not that of writers of moral philosophy, since the diverse volumes of interpretations of the law would lead to conflicts in cases. Instead, the interpreter of the law is the judge who is giving sentence *viva voce* in every particular case. However, the court is not obligated to follow decisions in previous court cases, but instead to interpret the law in the context of each individual case.
 ## Hart, *The Concept of Law*, Chapter 2
 
-> [!NOTE]
+> [!NOTE] Tip
 > The possibility puzzle is not concerned with the historical ontogeny of law, but instead more so interested in answering how the existence of law is possible. Underlying this question lies the question of what the ultimate grounds of legal validity are.
 ### Imperative Theory (Positivist)
 Intuitively, the concept of law is broken down into the concept of commands and habits. There exist a variety of manners in which an individual expresses their wishes to someone else, which Hart derives from Austin, *Providence of Jurisprudence Determined*. Discrimination between each of these imperative forms illustrates how different forms are used in different contexts. 
@@ -45,7 +45,11 @@ The orders that are issued must be generalized, more so a set of rules that are 
 ## Hart, *The Concept of Law*, Chapter 3
 ### Content of Laws
 In Austin's model, the essence of a law necessitates that it be backed by a form of deterrence, in other words, a threat. However, modern law detracts from this since there exists laws that do not impose duties or obligations. Take, for instance, modern law surrounding formation of contract between individual parties, such as a marriage. Such laws do not necessitate a particularized behavior, but instead confer more particular legal powers upon individuals.
+##### Coercive Orders
+Looking to laws within the public sector further illustrates some issues with the imperative theory. As mentioned before, there is a discernible difference in nature between criminal law, which closer resembles the idea of "orders backed by threats", and the existence of laws that surrounding the conduct and behavior of the legislative powers and judicial sector. The notable difference between the nature of law in these two disciplines is contradictory to the imperative theory; generalization and uniformity is not always possible or rational.
 
-Looking to laws within the public sector further illustrates some issues with the imperative theory. As mentioned before, there is a discernable difference in nature between criminal law, which closer resembles the idea of "orders backed by threats", and the existence of laws that surrounding the conduct and behavior of the legislative powers and judicial sector. The notable difference between the nature of law in these two disciplines is contradictory to the imperative theory; generalization and uniformity is not always possible or rational.
+The objections raised within Hart's discussion of coercive orders within imperative theory also bring up another issue, the fact that in modern legal systems there exist theoretical checks and balances that hold the sovereign accountable.
 ##### Nullity
 The concept of a nullity appeals to the concept of breach of contract as a form of disobeying the law. If one party makes a promise to another party, but it is not a legally binding promise, and that party fails to meet the conditions for that promise, the party violated cannot necessarily pursue legal action; the promise is legally a nullity. Therefore, a nullity cannot constitute a violation of law.
+# Week 04
+## Hart, *The Concept of Law,* Chapter 4
