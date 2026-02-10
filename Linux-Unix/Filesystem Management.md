@@ -1,3 +1,13 @@
+## Interpreting File Attributes
+Run `ls -l` in any directory and verbose details on all items will appear.
+- **File type:** If this starts with a d, it is a directory. If it starts with an l, it is a link. If it does not start with either of these characters, it is a file.
+- **Links:** Column two shows the number of links.
+- **Owner/Group:** Shows who owns the file, and the group that it's in
+- **Modification Date:** The month, day and time at which a file was modified respectively.
+- **Name:** File name.
+## Moving Files
+todo
+
 ## Interpreting File Permissions
 For individual *files:*
 * **Read (r):** Permission to access the file's contents (e.g., using `cat` or `less`.)
@@ -10,14 +20,14 @@ For entire *directories:*
 When using `ls -l`, *d* represents that an entry is a directory
 > [!Remark]
 > The `-` character means that a permission for any of the three actions is not possible. 
-## Octal Permissions
+##### Octal Permissions
 * - represents a value of zero.
 * r represents a value of 4
 * w represents a value of 2
 * x represents a value of 1
 For instance, a file with permissions `-rw-r-x---` has a permission value of `650`. `rw-=4+2; r-x=5,---=0`.
 Or we can go the other way around. A file with permission value of `770` means that both the file **[[User Permissions|OWNER]] and [[User Permissions#Groups|GROUPS]]** associated with the file have the permission to read, write and execute, but all other users cannot.
-## Modding File Permissions
+##### Modding File Permissions
 File permissions are managed using ``chmod``:
 * `chmod ug+rwx example.txt`: Grants all three permission types to a file **for the user and group (ug).**
 * `chmod o+r example2.txt`: 
