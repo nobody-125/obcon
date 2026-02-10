@@ -6,8 +6,7 @@ Run `ls -l` in any directory and verbose details on all items will appear.
 - **Modification Date:** The month, day and time at which a file was modified respectively.
 - **Name:** File name.
 ## Moving Files
-todo
-
+- `cp`, `mv` and `rm` can be found in the [[Common Utilities & Tools|common utilities]] notes page.
 ## Interpreting File Permissions
 For individual *files:*
 * **Read (r):** Permission to access the file's contents (e.g., using `cat` or `less`.)
