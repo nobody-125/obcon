@@ -2,7 +2,7 @@
 	* **Consumer surplus** is the marginal benefit consumers receive when they pay less than what they are willing to pay.
 	* **Producer surplus** is the benefit producers receive when they sell, compared to if they did not.
 ## Consumer Surplus
-![[obcon/Penn 25/Microeconomics/Files/Pasted image 20251022140140.png]]
+![[Pasted image 20251022140140.png]]
 * The consumer surplus is represented by the area of the shaded triangle, where $Q_e$ is equilibrium quantity and $P^*$ is price (Max. price consumers are willing to pay, minus equilibrium price):
 $$
 CS=\frac{1}{2}\times(Q_e)\times(P_{max}-P_e)
