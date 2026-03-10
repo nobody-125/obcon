@@ -15,3 +15,4 @@ Append to GEarth .desktop file:
 	- ~~Appt. with recommended therapists/psychiatrists~~ Thursday @ 13:00
 	- Ask Becky what to do for prescriptions
 		-  Prioritize finding psychiatrist for NY
+		- Ask for new prescription of Concerta medication
