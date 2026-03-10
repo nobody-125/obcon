@@ -9,9 +9,9 @@ Append to GEarth .desktop file:
 `` Exec=env -u QT_QPA_PLATFORMTHEME -u QT_QPA_PLATFORM /opt/google/earth/pro/google-earth-pro 0.000000 ``
 #### 2026-03-09
 - Create list of tasks
-	- Prioritize finding psychiatrist for NY
-	- Appt. with Steve
-	- Appt. with Fetni
-	- Appt. with Myles
-	- Appt. with recommended therapists/psychiatrists
+	- ~~Appt. with Sam~~ Thursday @ 10:00
+	- ~~Appt. with Fetni~~ Friday @ 15:30
+	- ~~Appt. with Myles~~
+	- ~~Appt. with recommended therapists/psychiatrists~~ Thursday @ 13:00
 	- Ask Becky what to do for prescriptions
+		-  Prioritize finding psychiatrist for NY
