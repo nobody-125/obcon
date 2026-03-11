@@ -16,3 +16,10 @@ Append to GEarth .desktop file:
 	- Ask Becky what to do for prescriptions
 		-  Prioritize finding psychiatrist for NY
 		- Ask for new prescription of Concerta medication
+#### 2026-03-11
+- Becky
+	- Concerta refill, Becky
+	- Ensure that Becky knows that I have psychiatrist and therapist in NY
+	- Disclaimer/waiver forms (HIPPA) and ask them to reach out to all three
+	- Ask for final advice or instructions
+	- Is it possible to reach out for advice?
