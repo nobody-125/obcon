@@ -20,6 +20,19 @@ Append to GEarth .desktop file:
 - Becky
 	- Concerta refill, Becky
 	- Ensure that Becky knows that I have psychiatrist and therapist in NY
-	- Disclaimer/waiver forms (HIPPA) and ask them to reach out to all three
-	- Ask for final advice or instructions
-	- Is it possible to reach out for advice?
+	- ~~Disclaimer/waiver forms (HIPPA) and ask them to reach out to all three~~
+	- ~~Ask for final advice or instructions~~
+	- ~~Is it possible to reach out for advice?~~
+
+#### Discussion with Sam
+- Digital sovereignty - proprietary vs. open source, is open-source more secure than closed-source?
+- AI Architecture and VLMs/LLMs? Legal necessity of security guardrails (ensure legality of training), safety guardrails (maximin)
+	- AI consciousness in intellectual property and the necessity of consciousness in rules such as fair use
+	- AI: extraordinarily analog
+		- Biology: Idea of consciousness vs. data probability model 
+- Democratization of hardware, software
+- Increasing relevance of technical law in AI, open-source, licensing
+- Volatility of SysAdmin role - increasing role of AI and replacement of junior roles
+- Building for infrastructure
+- Networking
+	- Add Sam on LinkedIn
