@@ -36,3 +36,10 @@ Append to GEarth .desktop file:
 - Building for infrastructure
 - Networking
 	- Add Sam on LinkedIn
+
+Conclusion: philosophy/law in AI increasing relevant position, sysadmin is important as a skill but not necessarily a pursuable career
+
+#### 2026-03-16
+- Fill out consent form(s)
+- Meeting with Aviva @ 16:00
+- Meeting with Bri on Thursday
