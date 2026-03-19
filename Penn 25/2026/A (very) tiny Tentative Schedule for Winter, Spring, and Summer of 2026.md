@@ -20,3 +20,6 @@ Every hour or so there should be a stretch of some kind, even just to get a drin
 Everything from the evening onwards is usually quite flexible. However, there should at the very least be a shower (every other day) and dinner. It's okay to not meet this, but just try to do it.
 
 After dinner it's possible to get work done, which is great. If Ben wants to play video games or something, that's also fine. Once I'm done with that and feel like I want to get to bed, IMMEDIATELY do the nightly routine (brushing, flossing, skincare). If I want to have a supper, have that sooner than later, then do the nightly routine immediately afterwards. Blue light should be off before 12:30. 
+
+## Results
+So far, I've been able to follow this schedule somewhat well. It's a mixed bag. Some days are more productive than others. However, there is more structure overall than there was previously.
