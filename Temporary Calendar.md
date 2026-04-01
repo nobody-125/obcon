@@ -56,3 +56,9 @@ Conclusion: philosophy/law in AI increasing relevant position, sysadmin is impor
 - Advanced registration ends
 #### 2024-04-07
 - Meeting with Damien, Time TBA
+#### 2026-04-29
+- Meeting with Zara @ 13:00
+#### TBA
+Session with primary care doctor + lab slip
+Blood pressure test/baseline
+Concerta increased dosage 27mg
