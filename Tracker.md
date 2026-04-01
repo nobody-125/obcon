@@ -41,4 +41,18 @@ Conclusion: philosophy/law in AI increasing relevant position, sysadmin is impor
 #### 2026-03-16
 - Fill out consent form(s)
 - Meeting with Aviva @ 16:00
-- Meeting with Bri on 2026-03-19 @13:00
+#### 2026-03-31
+- Provide accommodation forms to Zara
+- Provide HIPPA consent form to Zara
+- Schedule meeting with Damien
+- Schedule meeting with Fetni
+#### 2026-04-01
+- Meeting with Zara @ 13:00
+- Create spreadsheet dedicated to major kinds
+#### 2026-04-02
+- Research alternative majors + courses for next semester
+- Meeting with Brianna @ 13:00
+#### 2026-04-06
+- Advanced registration ends
+#### 2024-04-07
+- Meeting with Damien, Time TBA
