@@ -3,6 +3,7 @@ NetworkManager provides two frontends, `nmtui` and `nmcli`. The text-user interf
 * `nmcli d`: list available devices.
 * `nmcli d wifi connect <ssid> password <psk>`: simple way to connect to a network
 * `nmcli con delete <ssid>`: forgets a network, useful if for instance, NetworkManager complains that for whatever reason "secrets were required but not provided".
+* `nmcli con modify <ssid> ipv6.method "disabled"`: Disable ipv6 for whatever reason, typically because ipv6 is oftentimes not configured correctly.
 ### iNet Wireless Daemon
 Can be used in combination with NetworkManager. The daemon must either be enabled or started for `iwd` to work. Running `iwctl` creates a new session in the tty that allows the user to interact with `iwd`.
 * The most common name for the device name (at least on laptops) is `wlan0` but it can be listed using `device list`.
