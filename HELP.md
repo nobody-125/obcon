@@ -12,6 +12,6 @@ Append to GEarth .desktop file:
 	- Prioritize finding psychiatrist for NY
 	- Appt. with Steve
 	- Appt. with Fetni
-	- Appt. with Myles
+	- Appt. with Myles (Consultation)
 	- Appt. with recommended therapists/psychiatrists
 	- Ask Becky what to do for prescriptions
