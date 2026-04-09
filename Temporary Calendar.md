@@ -53,9 +53,12 @@ Conclusion: philosophy/law in AI increasing relevant position, sysadmin is impor
 - Research alternative majors + courses for next semester
 - Meeting with Brianna @ 13:00
 #### 2026-04-06
-- Advanced registration ends
+- Advanced registration ends @ 23:59
+#### 2024-04-06
+- Meeting with Damien @ 11:00
+- Meeting with Aviva @ 13:00
 #### 2024-04-07
-- Meeting with Damien, Time TBA
+- Meeting with Brianna
 #### 2026-04-29
 - Meeting with Zara @ 13:00
 #### TBA
