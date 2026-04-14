@@ -53,8 +53,14 @@ Conclusion: philosophy/law in AI increasing relevant position, sysadmin is impor
 - Research alternative majors + courses for next semester
 - Meeting with Brianna @ 13:00
 #### 2026-04-06
-- Advanced registration ends
+- Advanced registration ends @ 23:59
+#### 2024-04-06
+- Meeting with Damien @ 11:00
+- Meeting with Aviva @ 13:00
 #### 2024-04-07
+<<<<<<< HEAD
+- Meeting with Brianna
+=======
 - Meeting with Damien, Time TBA
 
 #### 2026-04-09
@@ -104,6 +110,7 @@ Intellectual property
 - Bell Labs - wanted to own any code that was written on a Unix system
 - "Patent trading" - patents can be purchased 
 AI: really just probability model, looking at what comes before and statistically figuring out what comes next
+>>>>>>> origin/main
 #### 2026-04-29
 - Meeting with Zara @ 13:00
 #### TBA
