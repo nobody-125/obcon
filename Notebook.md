@@ -16,3 +16,8 @@ How do I move past shame and guilt, so that I accept failure and move forward?
 - Try to do one thing consistently every day
 - Create a list of things I've done which have made me feel shame or avoidant of doing those things in the future
 - Create a list of things I've done which I don't recognize or have not recognized as successes
+
+## 2026-04-14
+Avoidance of doing unenjoyable tasks
+Timers vs. using a schedule
+
