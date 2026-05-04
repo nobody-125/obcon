@@ -1,3 +1,6 @@
+![[IMG_0156.jpg]]
+*MNR-CDOT Shoreliner I no. 6201 'The Connecticut Yankee' Idles just outside of Poughkeepsie, NY. (2021)*
+
 I have tried in the past many times to create schedules for myself, and almost every time, it has been a futile endeavour. Schedules are written, then hardly obeyed, with little accountability for them. This is almost certainly a symptom of ADHD, however, a schedule should remain as a good accountability system alongside medication and more discipline. 
 
 I will start off with a loose schedule and hopefully it can be tightened up as this break proceeds. I should also not be afraid to modify it as time goes on, since my circumstances obviously won't stay the same 24/7. A lot of the time I feel ashamed or disappointed in myself to have to revise or re-look at a schedule since it's associated with the idea of a failure. By leaving this admission of my feelings here, I hope that I can rewrite that narrative in my mind and replace this association with something more positive.
@@ -23,3 +26,5 @@ After dinner it's possible to get work done, which is great. If Ben wants to pla
 
 ## Results
 So far, I've been able to follow this schedule somewhat well. It's a mixed bag. Some days are more productive than others. However, there is more structure overall than there was previously.
+
+More detailed ideas: Read the metaphysics doc

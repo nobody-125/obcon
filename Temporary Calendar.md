@@ -110,10 +110,22 @@ Intellectual property
 - Bell Labs - wanted to own any code that was written on a Unix system
 - "Patent trading" - patents can be purchased 
 AI: really just probability model, looking at what comes before and statistically figuring out what comes next
->>>>>>> origin/main
 #### 2026-04-29
 - Meeting with Zara @ 13:00
 #### TBA
 Session with primary care doctor + lab slip
 Blood pressure test/baseline
 Concerta increased dosage 27mg
+
+
+Feretti
+Initially a philosophy major, looking into the ethics of technology and responsible usage
+Technology justice and creating responsible/ethical AGI
+- Skeptical of the idea of "generative AI"; incredibly powerful, but is it really identical to the human brain?
+- Minimax - should AI be incorporated in something such as the medical discipline, with the benefit of expediting the process but greater risk of failure?
+
+Recommendations
+- Study what you love, not what will get you the best job, since the job market is not immutable.
+- Classical disciplines (e.g., Engineering, medical, law) will persist, but are inflexible
+- Philosophy - classical and transformative (natural/classical teaching of philosophy vs. interdisciplinary/integrative manner, bridging philosophy or the ideas of ethics over to other sectors)
+- Feretti: Ex-colleague who was interested in IP, philosophy, data sovereignty, et cetera - 
