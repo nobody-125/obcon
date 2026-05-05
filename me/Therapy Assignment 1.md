@@ -16,11 +16,11 @@ This is here to address the rather vague question that was posed for me to ident
 - Codependent: Tends to be needy or withdrawn in romantic relationships at times, putting stress on personal relationships.
 - Cynical: Self-doubtful and assumes the worst outcome is the only outcome, Hobbesian outlook on other individuals.
 - Distracted: Tends to be misled by instant gratification activities or what the desire natural to the mind.
-- Cataclysmic Ecosystem: Intense mood swings that are not always controllable can lead to perceived random or unexplained shifts in behavior.
-- Mobius Trip: Perception of progress is easily extinguished by any kind of activities or events that suggest otherwise, leading to circular progress and a never-ending cycle.
-- Hermit: Shy of other people and assumes negative intentions from others, particularly those around my current age group.
+- Cataclysmic: Intense mood swings that are not always controllable can lead to perceived random or unexplained shifts in behavior.
+- Mobius Trip: Perception of progress is easily extinguished by any kind of activities or events that suggest otherwise, leading to circular progress and a never-ending cycle. *(Connected to Proletariat)*
+- Hermit: Shy of other people and assumes negative intentions from others, particularly those around my current age group *(Connected to Vigilant)*.
 - Neglectful: Oftentimes sacrifice physical and mental health when motivation towards a goal (or lack of any) is too strong.
-- Neuroticism: Stability crumbles under intense pressure or buildup of emotions, leading to occasional catharsis that 
+- Neuroticism: Stability crumbles under intense pressure or buildup of emotions, leading to occasional catharsis that leads to setback.
 - Ravenous: Efficiency demands great amounts of assistance and support from external sources, ensuring that the environment is controlled and allows for success.
 - Seraph: I always come back
 - Skeptic: Afraid of trying new things, under the guise of maximin utilitarianism, applied to the self.

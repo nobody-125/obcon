@@ -4,7 +4,7 @@
 | 7:30    | Breakfast, take medication ~ 15 mins after    |
 | 8-10:00 | Morning walk, then nap, if necessary          |
 | 12:00   | Afternoon session bloc*                       |
-| 14:30   | Lunch (can be earlier)                        |
+| 13:30   | Lunch (can be earlier)                        |
 | 17:30   | Exercise and physical workout                 |
 | 18:30   | Shower and cleanup                            |
 | 19:00   | Dinner                                        |
