@@ -14,5 +14,7 @@
 | 22:30   | Final curfew, no screentime beyond this point |
 The concentration for the afternoon session should be outlined in the physical ledger/planner. Evening sessions are always free.
 
+Concessions can be made when necessary, but try your best to stick to this as best as possible.
+
 **EFFECTIVE IMMEDIATELY. ALL QUIET ON THE EASTERN FRONT.**
 ![[Pasted image 20260504165500.png]]

@@ -10,6 +10,7 @@ This is here to address the rather vague question that was posed for me to ident
 - Time Warden: Near-infinite levels of patience, insofar as the self concludes that the benefit from the effort is valuable.
 - Proletariat: If I rationalize that it is worth my time, I can put in a great amount of effort towards something, even if it comes at the cost of my own physical health.
 - Scholar: Somewhat well-versed in a wide range of topics, disciplines and studies that a large majority of people would not understand or care less to study.
+- Tender: Understanding and sympathetic to other people.
 - Vigilant: Tends to only become close to individuals whom can be entrusted.
 #### Weaknesses
 - Codependent: Tends to be needy or withdrawn in romantic relationships at times, putting stress on personal relationships.
