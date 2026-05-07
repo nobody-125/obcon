@@ -13,3 +13,11 @@ I then showered, relaxed for a little, and then had dinner. Now I am here writin
 
 I promise myself to at least work on the Shoreliners tomorrow, for at the very least, half an hour, in the afternoon. Tune into a livestream or something while you do it, it'll make you feel less isolated and more ready to face the challenges that await in the modeling process. 
 
+### 2026-05-06
+![[Anas_platyrhynchos_male_female_quadrat.jpg]]*Two mallard ducks in Germany*
+
+Today was fine. I woke up late, ate, took my medication, went out for a walk, and then came back and spent most of today relaxing, since my body's been feeling very exhausted from exercising the other day.
+
+The new schedule seems to be doing okay for me so far. I wasn't able to get any work done today, but I tried my best to follow the general schedule anyway. I had forgotten to journal yesterday, but it was quite a productive day. I worked on the Shoreliner for a few hours, getting some work done on the center vestibule. Still not able to do as much as I wanted to do, but it's a start. Importantly, I managed to follow the schedule pretty closely.
+
+I'll write here tomorrow to see how things go.
