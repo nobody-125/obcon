@@ -30,4 +30,7 @@ Pipeline: Practice and build structure & self-discipline, create a plan for push
 So, I did miss a bunch of entries. And I haven't been doing the greatest job keeping up with the schedule. But I will continue trying. It's been over a week since I started it, and it hasn't gone amazing. Perhaps I will try to make it a little more rigid? I also need to increase my medication - that's something I will figure out soon.
 
 Another thing, I'm writing this in the middle of the day. I haven't been getting amazing sleep the past few evenings. I'll try to clean it up and restore it back to proper over the next few days. I'll also retroactively fill in some of the activities conducted over the past few days, they'll be in the physical log which documents everything.
-
+### 2026-05-16
+Some notes on my condition after taking the medication:
+- Desynchronization between the fatigue level of my body and my mind - my mind is active, but I'm feeling exhausted and sleepy (like being on coffee while you're sleep deprived)
+- Sleeping is somewhat difficult
