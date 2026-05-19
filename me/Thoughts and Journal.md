@@ -34,3 +34,54 @@ Another thing, I'm writing this in the middle of the day. I haven't been getting
 Some notes on my condition after taking the medication:
 - Desynchronization between the fatigue level of my body and my mind - my mind is active, but I'm feeling exhausted and sleepy (like being on coffee while you're sleep deprived)
 - Sleeping is somewhat difficult
+### 2026-05-19
+- **Rear vestibule:** Passageway/gangway between cars
+	- Door control panels
+	- Interior sheet metal
+	- Ceiling speaker/lights
+	- Sliding door
+	- Bolts, et cetera
+- **Interior rear vestibule**
+	- Sliding door
+	- Partition/wall shapes and details
+	- Proportions
+- **Greater rear half:**
+	- Window frames
+	- Window bonding and glazing
+	- Emergency exit tools
+	- Ceiling detail
+	- Ceiling lights
+	- Seats
+- **Interior center vestibule**
+	- Sliding doors
+	- Glass partitions
+	- Woodgrain partitions
+	- Ceiling lights
+- **ADA Accessible Lavatory**
+	- Lavatory exterior
+	- Toilet
+	- Sink
+	- Soap dispenser
+	- Mirror
+	- Hand dryer
+	- Door handles
+	- Bolts and screws
+	- Toilet paper dispenser
+	- Ceiling lights
+	- Ceiling fan
+	- Metal panels
+	- ADA-accessible guardrails
+- **Front half of the interior center vestibule**
+	- Flush connection between the center vestibule and the running ceiling
+	- Flush topological/geometrical connection between the front-side door controls and center vestibule
+	- ADA-accessible ramp
+	- Proportions, et cetera
+- **Front partition**
+	- Front row seats
+	- Water cooler/dispenser
+	- Trash bin
+	- Front partition divides the interior from the cab
+	- Sliding door
+	- Weird machine or box
+- **Cab**
+	- Cab
