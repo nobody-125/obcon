@@ -1,0 +1,1 @@
+List negative thoughts and then what to replace them with
