@@ -85,3 +85,9 @@ Some notes on my condition after taking the medication:
 	- Weird machine or box
 - **Cab**
 	- Cab
+### 2026-05-26
+Staying on schedule continues to prove to be difficult. Too many distractions, and the current section of the Shoreliners I have to work on is proving to be very difficult.
+
+I don't want to work on this part of the train, but everything has to be done sequentially. Once the interior is done, texturing and mapping can finally commence.
+
+I had the mattress moved back upstairs last evening. There is now an awkward empty spot where the mattress used to be and the room feels cleaner than ever before. Hopefully this changes the dynamic of my living situation.
