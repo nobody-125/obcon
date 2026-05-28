@@ -91,3 +91,12 @@ Staying on schedule continues to prove to be difficult. Too many distractions, a
 I don't want to work on this part of the train, but everything has to be done sequentially. Once the interior is done, texturing and mapping can finally commence.
 
 I had the mattress moved back upstairs last evening. There is now an awkward empty spot where the mattress used to be and the room feels cleaner than ever before. Hopefully this changes the dynamic of my living situation.
+### 2026-05-27
+Another trip to Grand Central will be in order for tomorrow. This time, I will ensure to stay in the station until a Shoreliner III cab car makes itself present. This is a list of photos that will need to be taken:
+- Exterior, including all running numbers
+- Thorough walk between the center vestibule and cab end (ensuring that the number of rows of seats is clearly visible and documented)
+- Thorough walk between the center vestibule and rear vestibule end
+- Extensive photography of the empty partition opposite of the wheelchair ramp enclosure
+- A photo illustrating the positioning of the cab partition walls to get a gauge of where they are relative to the cab doors
+- Bathroom interior (sanity check)
+- Ends of the baggage racks 
