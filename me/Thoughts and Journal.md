@@ -100,3 +100,8 @@ Another trip to Grand Central will be in order for tomorrow. This time, I will e
 - A photo illustrating the positioning of the cab partition walls to get a gauge of where they are relative to the cab doors
 - Bathroom interior (sanity check)
 - Ends of the baggage racks 
+
+### 2026-05-28
+...Success! I got a good number of photos of the SIII interior, hopefully this is enough to finish up the interior. 
+
+I've also revived the database, with the intention of better organizing the differences between the cars.
