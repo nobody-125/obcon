@@ -31,4 +31,73 @@ Pipeline: Practice and build structure & self-discipline, create a plan for push
 So, I did miss a bunch of entries. And I haven't been doing the greatest job keeping up with the schedule. But I will continue trying. It's been over a week since I started it, and it hasn't gone amazing. Perhaps I will try to make it a little more rigid? I also need to increase my medication - that's something I will figure out soon.
 
 Another thing, I'm writing this in the middle of the day. I haven't been getting amazing sleep the past few evenings. I'll try to clean it up and restore it back to proper over the next few days. I'll also retroactively fill in some of the activities conducted over the past few days, they'll be in the physical log which documents everything.
+### 2026-05-16
+Some notes on my condition after taking the medication:
+- Desynchronization between the fatigue level of my body and my mind - my mind is active, but I'm feeling exhausted and sleepy (like being on coffee while you're sleep deprived)
+- Sleeping is somewhat difficult
+### 2026-05-19
+- **Rear vestibule:** Passageway/gangway between cars
+	- Door control panels
+	- Interior sheet metal
+	- Ceiling speaker/lights
+	- Sliding door
+	- Bolts, et cetera
+- **Interior rear vestibule**
+	- Sliding door
+	- Partition/wall shapes and details
+	- Proportions
+- **Greater rear half:**
+	- Window frames
+	- Window bonding and glazing
+	- Emergency exit tools
+	- Ceiling detail
+	- Ceiling lights
+	- Seats
+- **Interior center vestibule**
+	- Sliding doors
+	- Glass partitions
+	- Woodgrain partitions
+	- Ceiling lights
+- **ADA Accessible Lavatory**
+	- Lavatory exterior
+	- Toilet
+	- Sink
+	- Soap dispenser
+	- Mirror
+	- Hand dryer
+	- Door handles
+	- Bolts and screws
+	- Toilet paper dispenser
+	- Ceiling lights
+	- Ceiling fan
+	- Metal panels
+	- ADA-accessible guardrails
+- **Front half of the interior center vestibule**
+	- Flush connection between the center vestibule and the running ceiling
+	- Flush topological/geometrical connection between the front-side door controls and center vestibule
+	- ADA-accessible ramp
+	- Proportions, et cetera
+- **Front partition**
+	- Front row seats
+	- Water cooler/dispenser
+	- Trash bin
+	- Front partition divides the interior from the cab
+	- Sliding door
+	- Weird machine or box
+- **Cab**
+	- Cab
+### 2026-05-26
+Staying on schedule continues to prove to be difficult. Too many distractions, and the current section of the Shoreliners I have to work on is proving to be very difficult.
 
+I don't want to work on this part of the train, but everything has to be done sequentially. Once the interior is done, texturing and mapping can finally commence.
+
+I had the mattress moved back upstairs last evening. There is now an awkward empty spot where the mattress used to be and the room feels cleaner than ever before. Hopefully this changes the dynamic of my living situation.
+### 2026-05-27
+Another trip to Grand Central will be in order for tomorrow. This time, I will ensure to stay in the station until a Shoreliner III cab car makes itself present. This is a list of photos that will need to be taken:
+- Exterior, including all running numbers
+- Thorough walk between the center vestibule and cab end (ensuring that the number of rows of seats is clearly visible and documented)
+- Thorough walk between the center vestibule and rear vestibule end
+- Extensive photography of the empty partition opposite of the wheelchair ramp enclosure
+- A photo illustrating the positioning of the cab partition walls to get a gauge of where they are relative to the cab doors
+- Bathroom interior (sanity check)
+- Ends of the baggage racks 
