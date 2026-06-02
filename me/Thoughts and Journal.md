@@ -22,6 +22,7 @@ Today was fine. I woke up late, ate, took my medication, went out for a walk, an
 The new schedule seems to be doing okay for me so far. I wasn't able to get any work done today, but I tried my best to follow the general schedule anyway. I had forgotten to journal yesterday, but it was quite a productive day. I worked on the Shoreliner for a few hours, getting some work done on the center vestibule. Still not able to do as much as I wanted to do, but it's a start. Importantly, I managed to follow the schedule pretty closely.
 
 I'll write here tomorrow to see how things go.
+## W3-5
 ### 2026-05-14
 ![[takashi-miyazaki-R6me1o4eWxg-unsplash.jpg]]
 *View of Mt. Fuji from one end of Lake Kawaguchi, taken by Takashi Miyazaki*
@@ -106,3 +107,12 @@ Another trip to Grand Central will be in order for tomorrow. This time, I will e
 ...Success! I got a good number of photos of the SIII interior, hopefully this is enough to finish up the interior. 
 
 I've also revived the database, with the intention of better organizing the differences between the cars.
+# June 2026
+## W1-2
+### 2026-06-02
+Had to take a break today after working on the model for so long this Monday. Progress is being made, albeit slowly. Below is a compiled list of what specific targets to reach for tomorrow, or at least to get started on them, since progress is a lot slower than I've been wanting it to be.
+- Resolve ceiling detail (move the ceiling end further into the car and rework the detail so that it is accurate)
+- Ensure integrity of the front seat rows
+I aim to work for at least two hours tomorrow, if I can work on it for two hours and make a decent amount of progress towards either of these, I'll write it down as a success. 
+
+The train is very close to being finished, yet also so far from this goal. I'm not exactly betting my future on this thing, but I think it's something really important to me, and I want to have a wrapped model by the end of June. Whether that's achievable will probably hinge on if I decide to make the cab.
