@@ -116,3 +116,5 @@ Had to take a break today after working on the model for so long this Monday. Pr
 I aim to work for at least two hours tomorrow, if I can work on it for two hours and make a decent amount of progress towards either of these, I'll write it down as a success. 
 
 The train is very close to being finished, yet also so far from this goal. I'm not exactly betting my future on this thing, but I think it's something really important to me, and I want to have a wrapped model by the end of June. Whether that's achievable will probably hinge on if I decide to make the cab.
+### 2026-06-03
+The end ceiling has been moved further into the coach. Laid the foundation for the left side of the coach, decent amount of progress for today.
