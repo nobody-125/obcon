@@ -5,6 +5,11 @@
 * ``pacman -Qqd | pacman -Rsu --print -``: Ibid.
 ## Gentoo Linux
 * `emerge -av <PACKAGE_REPO>/<PACKAGE>`: Install package from specific repository, provides verbose description and requires confirmation
+
+### Disk/Installation Management
+- `grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB`: Typical GRUB installation for EFI systems
+- `lsblk -f`: Verbose information about partitions.
+- `df -h`: Shows remainder of disk space.
 ## Shell Commands
 #### Help
 - `info`: Verbose details on what a command does.
