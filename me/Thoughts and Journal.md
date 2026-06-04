@@ -119,4 +119,4 @@ The train is very close to being finished, yet also so far from this goal. I'm n
 ### 2026-06-03
 The end ceiling has been moved further into the coach. Laid the foundation for the left side of the coach, decent amount of progress for today.
 ### 2026-06-04
-Taking today off.
+~~Taking today off.~~ Planner contains the plans for the train today
