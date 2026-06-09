@@ -7,7 +7,7 @@
 * `emerge -av <PACKAGE_REPO>/<PACKAGE>`: Install package from specific repository, provides verbose description and requires confirmation
 
 ### Disk/Installation Management
-- `grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB`: Typical GRUB installation for EFI systems
+- `grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB`: Typical GRUB installation for EFI systems. Ensure that a directory exists at `/mnt/boot/efi`, or at `/boot/efi` when chrooted.
 - `lsblk -f`: Verbose information about partitions.
 - `df -h`: Shows remainder of disk space.
 ## Shell Commands
