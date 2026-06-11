@@ -119,11 +119,8 @@ The train is very close to being finished, yet also so far from this goal. I'm n
 ### 2026-06-03
 The end ceiling has been moved further into the coach. Laid the foundation for the left side of the coach, decent amount of progress for today.
 ### 2026-06-04
-<<<<<<< HEAD
 ~~Taking today off.~~ Planner contains the plans for the train today.
 Work completed: Normals repaired, right-side panel cleaned, standalone water dispenser/water jug procured, waste bin and paper cup dispenser procured.
-=======
-~~Taking today off.~~ Planner contains the plans for the train today
 ### 2026-06-09
 The interior of the SIIIs has been completed. I should feel accomplished and happy, but I feel empty and dissatisfied. I've become exhausted and disenchanted with this train project. I've been forcing myself to complete this piece of artwork. This is natural and expected as motivation and determination runs its cycle. But I think I had, in a way, made this project my entire life and purpose for the past few months. When I realized that it couldn't be everything for me, it felt disappointing.
 
@@ -138,5 +135,3 @@ Maybe things will become easier and better as I move on from the interior and to
 I've observed that as I write this, I'm being overwhelmed by the burden of everything else going on. The family situation, the fear and shame of me not making money or being in school, comparing myself to my brother and the path that he took being so different from mine. It's all too much to take in all at once. I wish that fulfillment came at a cheaper cost, that I knew how to be content with less. And while I would concede that some of my criticism of my own life is unwarranted, such concerns are unavoidable.
 
 I think I need some time away from this city and house, too. I want to go on vacation sometime and just not think about any of this. But that will not be possible for the next few weeks. I also haven't been taking my medication regularly, which is definitely not good for my health. I hope that taking it a little more regularly will prevent these kinds of feelings and thoughts I'm undergoing right now. The future is bright, but maybe I am wearing sunglasses.
-
->>>>>>> origin/main
