@@ -21,3 +21,17 @@ Some of the ideas for the next schedule framework:
 * Reintroduce the journaling, maybe make it's home here in Obsidian instead so that it's agnostic across both the Lenowo and the PC.
 
 The new schedule has been designated. Come back in about a week or so and add some notes on it here.
+
+# 2026-06-16
+It has been more than just one week since the previous revision, however, much has been learned about the schedule in this time period.
+
+Some of my thoughts and feelings are available in my journal entry for 2026-06-15, however, I'll provide some thoughts in this space anyway.
+- Some components of the schedule seem to have persisted over the entire month, I've generally practiced a good morning and evening routine.
+- Journaling has continued over not just the past month, but overall for this entire year of 2026 up until now.
+- Progress on the SIII has been motivated, albeit at a much slower rate than in February/March of 2026. The modeling process has been completed and cleanup of the geometry is now in order.
+- Adhering rigidly to the schedule has been extremely difficult and cannot be sustained for more than a few days at a time.
+
+I've made some revisions to the schedule which is noted by the new name "Schedule v2.1". The most notable change is an increased tolerance for error as wake-up is now at 8:15 rather than 7:00. As the latter time window was too early, I tended to wake up at 7:00, feel sleepy, go back to bed, and then start the day much later, as late as 10:30 or 11:00. 
+
+With the new schedule, I can sleep as late as 23:00, wake up at 8:15, and still have approximately 9 hours of sleep. Insofar as I can follow up in taking my medication on time, the effectiveness of the medication should persist in the new schedule.
+

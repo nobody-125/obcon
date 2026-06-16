@@ -135,6 +135,7 @@ Maybe things will become easier and better as I move on from the interior and to
 I've observed that as I write this, I'm being overwhelmed by the burden of everything else going on. The family situation, the fear and shame of me not making money or being in school, comparing myself to my brother and the path that he took being so different from mine. It's all too much to take in all at once. I wish that fulfillment came at a cheaper cost, that I knew how to be content with less. And while I would concede that some of my criticism of my own life is unwarranted, such concerns are unavoidable.
 
 I think I need some time away from this city and house, too. I want to go on vacation sometime and just not think about any of this. But that will not be possible for the next few weeks. I also haven't been taking my medication regularly, which is definitely not good for my health. I hope that taking it a little more regularly will prevent these kinds of feelings and thoughts I'm undergoing right now. The future is bright, but maybe I am wearing sunglasses.
+## W3-4
 ### 2026-06-15
 I am trying to keep up with the journaling as regularly as possible. It is a ritual that started back in December of 2025 and I think that this is the longest that I've gone on with doing it. Definitely not on a completely consistent basis, but I have been doing it for an extended period of time, nearly half a year now.
 
@@ -161,4 +162,5 @@ Do I feel like I've made any progress towards becoming independent? In this mome
 
 I feel estranged from my parents and my family, I feel as if I'm nothing compared to everyone else here. I can't help but worry that everyone else in my family will look down on me for the path that I am currently forging is one that is unclear, indirect, unstable. 
 
-
+### 2026-06-16
+Planning on drafting an e-mail to my brother as difficult as it may be, and I need to create a list of tasks for this week regarding the SIII.
