@@ -165,3 +165,8 @@ I feel estranged from my parents and my family, I feel as if I'm nothing compare
 ### 2026-06-16
 Planning on drafting an e-mail to my brother as difficult as it may be, and I need to create a list of tasks for this week regarding the SIII.
 ### 2026-06-17
+No entry was provided.
+### 2026-06-18
+Work & progress on the SIII is moving along steadily. The new schedule seems to be working out fine, in the current moment. I had some trouble getting out of bed this morning, but I believe that this is on account of the fact that I keep on waking up in the middle of the night - perhaps the medication dosage should be reduced back down to 27 mg? 
+
+It does feel good that I am getting more work done and am definitely finding it easier to motivate myself to be productive. Especially now that I am forcing myself to plan each day out individually, rather than just letting the time go by. I think that being forced to manually review the tasks required for the day and determining what needs to be done, rather than what I want to do, is helping me quite a lot. Hopefully I can continue the progress until the end of the week, if that would be possible I'd be very happy.
