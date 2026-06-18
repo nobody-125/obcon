@@ -170,3 +170,5 @@ No entry was provided.
 Work & progress on the SIII is moving along steadily. The new schedule seems to be working out fine, in the current moment. I had some trouble getting out of bed this morning, but I believe that this is on account of the fact that I keep on waking up in the middle of the night - perhaps the medication dosage should be reduced back down to 27 mg? 
 
 It does feel good that I am getting more work done and am definitely finding it easier to motivate myself to be productive. Especially now that I am forcing myself to plan each day out individually, rather than just letting the time go by. I think that being forced to manually review the tasks required for the day and determining what needs to be done, rather than what I want to do, is helping me quite a lot. Hopefully I can continue the progress until the end of the week, if that would be possible I'd be very happy.
+
+In the meantime, I am going to take a few minutes off and then plan today. If I have the time or motivation to do so, I'll return to this journal later in the day and provide an entry.
