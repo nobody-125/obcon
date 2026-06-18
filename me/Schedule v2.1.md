@@ -1,10 +1,10 @@
-Revised from schedule v2, this new schedule provides more room for error but also tries to remain faithful to that rigor and structure that was intended initially.
+Revised from schedule v2, this new schedule provides more room for error but also tries to remain faithful to that rigor and structure that was intended initially. Exceptions can obviously be made on days where disruptions to the schedule are planned.
 
 | Time  | Designated Activity                        |
 | ----- | ------------------------------------------ |
 | 8:15  | New wakeup time; morning routine           |
 | 9:00  | Breakfast, take medication ~ 15 mins after |
-| 10:00 | Plan the day                               |
+| 10:00 | Plan the day no later than this time       |
 | 11:00 | Start work, stretch at 12:30               |
 | 13:30 | Lunch no later than this time              |
 | 15:30 | Stretch                                    |

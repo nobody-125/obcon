@@ -38,3 +38,4 @@ $P\rightarrow R\vdash (P\lor Q)\rightarrow((Q\rightarrow R)\rightarrow R)$
 		(8.) $R:\lor\exists\,2,4-5,6-7$
 	(9.) $(Q\rightarrow R)\rightarrow R:\rightarrow \text{I}\, 3-8$
 (10.) $(P\lor Q)\rightarrow ((Q\rightarrow R)\rightarrow R):\text{I}\,2-9$
+![[Pasted image 20260618093514.png]]
