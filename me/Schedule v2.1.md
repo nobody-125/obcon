@@ -7,7 +7,7 @@ Revised from schedule v2, this new schedule provides more room for error but als
 | 10:00 | Plan the day no later than this time       |
 | 11:00 | Start work, stretch at 12:30               |
 | 13:30 | Lunch no later than this time              |
-| 15:30 | Stretch                                    |
+| 15:30 | Stretch + shower                           |
 | 18:30 | Conclude productive activities             |
 | 19:00 | Dinner with family no later than this time |
 | 19:30 | Journaling & Thoughts on the Day           |

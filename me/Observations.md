@@ -54,4 +54,5 @@ The policy against this is to produce a list of potential activities, which is a
 14. Check for new listings on eBay
 15. Go out for a walk
 16. Downloading music + transfer to phone
-17. 
+# 2026-06-19: Small revisions
+Gotta touch grass more often and shower!!! Will be making marginal adjustments to the schedule in anticipation of this
