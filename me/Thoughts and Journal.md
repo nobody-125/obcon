@@ -199,3 +199,5 @@ Definitely going to make sure I'm using the Ayr as regularly as possible. At the
 I also need to write back to both James and Sam. I've learned to be less scared about these talks and have begun treating them more as just chats, almost as if I'm on a podcast where I can learn more about what other people think and express my own thoughts. Coordinating and organizing the sessions between Bri and Rumona should also be in order as tonight is a Friday.
 
 As for the boredom that I've been struggling with, I'm going to try to start to pack the day a little more. More activities, less time doing nothing.
+
+Imagine if I had started watching hololive 2 years ago I'd be designing flying cars and have a six figure salary today
