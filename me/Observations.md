@@ -34,4 +34,24 @@ Some of my thoughts and feelings are available in my journal entry for 2026-06-1
 I've made some revisions to the schedule which is noted by the new name "Schedule v2.1". The most notable change is an increased tolerance for error as wake-up is now at 8:15 rather than 7:00. As the latter time window was too early, I tended to wake up at 7:00, feel sleepy, go back to bed, and then start the day much later, as late as 10:30 or 11:00. 
 
 With the new schedule, I can sleep as late as 23:00, wake up at 8:15, and still have approximately 9 hours of sleep. Insofar as I can follow up in taking my medication on time, the effectiveness of the medication should persist in the new schedule.
+# 2026-06-18: Hobbies and Activities
+The new schedule has worked okay so far. No hiccups, and I'm generally getting along with the schedule quite well, but I have noticed that I usually conclude my activities a little bit earlier than 18:30. The resulting "dead space" has actually turned out to be a much larger problem than I expected it to be. As there is nothing planned for that time, I get bored and don't really know what to do. 
 
+The policy against this is to produce a list of potential activities, which is a supposed obvious solution. I'll produce an incomplete list of things to do here. That way, whenever I get to a point where I feel bored or like there's nothing to do, I can just fall back to this. If I have to, I'll flip a coin or roll some dice to decide, I don't know.
+1. Relearning and retraining on first-order logic
+2. RedHat System Administration certification
+3. Maintenance on Linux systems that may not have been updated in a while
+4. Revisiting the Windows partition to ensure it's integrity and that it is up-to-date
+5. Perspective pencil drawings
+6. Character pencil drawings
+7. List another keyboard or item on eBay
+8. Vacuum, clean/mop the room
+9. Travel to a new MNR station and railfan there - for days on which work is finished quite early
+10. Archival of media on the KBI Wiki or archive.org
+11. Cleanup and integrity check of the filesystem on all devices
+12. Synchronizing files between all devices
+13. Cleaning peripherals - keyboard, mouse, headphones
+14. Check for new listings on eBay
+15. Go out for a walk
+16. Downloading music + transfer to phone
+17. 
