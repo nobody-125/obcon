@@ -201,3 +201,11 @@ I also need to write back to both James and Sam. I've learned to be less scared 
 As for the boredom that I've been struggling with, I'm going to try to start to pack the day a little more. More activities, less time doing nothing.
 
 Imagine if I had started watching hololive 2 years ago I'd be designing flying cars and have a six figure salary today
+### 2026-06-21
+Decided to be unapologetically lazy this weekend. I didn't practice good eating habits or follow a consistent schedule. Overall, a day that goes a lot more how my days would go before I began practicing structure and discipline, a lazy summer day. I find it forgivable given that it is a weekend, and that on Friday I renegotiated with my brother some ground rules for our friendship, which was in itself a lot of work and took some time to process.
+
+The goal for tonight is to have a healthy meal and to sleep on time, that's it. This will hopefully set the ideal conditions for Monday when I start doing work again. Variation has to exist between each day and I think that having the weekends off is okay, at least to some capacity.
+
+Even though I wasn't the most healthy this weekend, I still tried to practice some healthy habits. Good oral care, flossing twice a day, mouthwash in the evening. Getting up to stretch regularly. These are small things to do, but they do help me feel like I'm still on track, making progress, and not being set back a hundred miles. They also do help to improve my daily quality of life, especially stretching. I do wish I had kept myself a little more hydrated today, and had also stretched a little more, but what happened today is now the past.
+
+The nosebleeds seem to becoming less frequent and less intense with greater applications of Ayr. Will definitely try my best to keep up with it as much as possible over these next few weeks. Also meeting with Rumona this Tuesday, and I also have a few other meetings planned here and there. 
