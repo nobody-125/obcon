@@ -209,3 +209,5 @@ The goal for tonight is to have a healthy meal and to sleep on time, that's it. 
 Even though I wasn't the most healthy this weekend, I still tried to practice some healthy habits. Good oral care, flossing twice a day, mouthwash in the evening. Getting up to stretch regularly. These are small things to do, but they do help me feel like I'm still on track, making progress, and not being set back a hundred miles. They also do help to improve my daily quality of life, especially stretching. I do wish I had kept myself a little more hydrated today, and had also stretched a little more, but what happened today is now the past.
 
 The nosebleeds seem to becoming less frequent and less intense with greater applications of Ayr. Will definitely try my best to keep up with it as much as possible over these next few weeks. Also meeting with Rumona this Tuesday, and I also have a few other meetings planned here and there. 
+### 2026-06-22
+Check planner for today's plans
