@@ -210,4 +210,6 @@ Even though I wasn't the most healthy this weekend, I still tried to practice so
 
 The nosebleeds seem to becoming less frequent and less intense with greater applications of Ayr. Will definitely try my best to keep up with it as much as possible over these next few weeks. Also meeting with Rumona this Tuesday, and I also have a few other meetings planned here and there. 
 ### 2026-06-22
-Check planner for today's plans
+Check planner for today's plans.
+### 2026-06-23
+Check planner for today's plans.
