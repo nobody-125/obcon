@@ -56,3 +56,23 @@ The policy against this is to produce a list of potential activities, which is a
 16. Downloading music + transfer to phone
 # 2026-06-19: Small revisions
 Gotta touch grass more often and shower!!! Will be making marginal adjustments to the schedule in anticipation of this
+# 2026-06-23
+Review of this previous list illustrates that not all of these activities are ones which I necessarily find fun or derive any meaning from, but rather, exist out of a stake to preserve consistency and schedule. I'll nevertheless try to execute on this list in the future.
+
+I am unsure of what my answer is to the question of what do I consider to be the meaning to my life. I am not necessarily one drawn to large-scale goals, or rather, I feel as if I can only focus on one goal at a time. The past few months, I've made the SIII my life goal. Before that, I'm not really sure what my meaning would have been. School, yes, but that is not necessarily something I set on my own, but rather, I live up to the expectations others set for me. Momentarily, where it is the case that I must set my own expectations, I feel lost.
+
+The futility that I sometimes experience when working on some of the other hobbies or activities here is easily explained with the model I propose above; working on other hobbies does not motivate any kind of work towards getting the SIII done. I think that to some degree, I don't really care for living healthily, but rather, I just want to be who I was in February and March, able to continue working and working. If I did care the most about healthy living and self-care, I'd look at where I am right now and be more proud and satisfied of the progress that's been made. I can acknowledge the effort that has been invested into a more balanced lifestyle, and how it has contributed to more motivation to work on the SIII, but it is disappointing. So much time and effort invested into changing my lifestyle, only for me to have still less capacity to work on the SIIIs than before.
+
+I do not work on the basis of wanting to work on the SIII or not these days, I work on it according to the targets set by myself each morning. This in itself is a change in intrinsic motivations. Whereas before I worked on the SIII out of passion, here it is out of necessity. Not that I do not enjoy working on it, but the amount of time and goals to be fufilled for each day is prefixed by myself, whereas before it was not. Work and time was invested until I decided I was done. Here, I work on the SIII, complete a laundry list of tasks, finish, and then feel as if I haven't done enough?
+
+The simplest answer to this conundrum: just add more to the task list, right? Seems natural and easy enough. Perhaps I will try to increase or mature the amount of work I set for myself each day. Two hours is not a terribly large amount. Maybe it is simply the case that I want to do more on the project, but I don't know how to justify this work, since the principles that I operate on necessitate that I am consistent with the schedule I created for myself. And once I've met the quota of work I needed to do for the day, what's the point in doing any more work? If anything, it's a violation of the standards I set for myself. 
+
+I think that I know within myself that I can do a lot more every day, that I can be more focused, that I can sit down and spend a lot more time doing work. 
+
+For the remainder of the week, I'll promise to myself that I won't do any Vintage Story in the morning - leave it only for the evening. I'll have more energy to focus on the train, I'll feel more productive, like I've spent more time working on it, that the time that I invest in working on the SIII is time which truly mattered. 
+
+The conclusion: I'm frustrated that I feel as if I have the capacity to do more, but statutes and rules installed by myself prevent myself from justifying working on such. In reality, such rules should not be conceived as limits, but a mechanism that enables more work and productivity. 
+
+This does not answer to the greater question of what my meaning is, but at the very least, such a perspective could be a justification for engagement with other hobbies, even if the connection is weak or obscured. 
+
+Everything these past few weeks has gone so much better than how any other summer has. Consider the discipline and effort that I should take at least some level of pride in. 
