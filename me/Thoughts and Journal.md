@@ -216,4 +216,4 @@ Check planner for today's plans.
 # July 2026
 ## W1-2
 ### 2026-07-01
-For therapy, write an acknowledgement of the potential benefits of trying to live healthy or practice discipline.
+For therapy, write an acknowledgement of the potential benefits of trying to live healthy or practice discipline. 
