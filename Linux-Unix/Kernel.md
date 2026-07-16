@@ -10,3 +10,9 @@ During context switching, the kernel is responsible for memory management. This 
 Device drivers are often included as part of the kernel to simplify developers' jobs since programming interfaces widely vary across drivers, regardless of if they achieve the same task. Most drivers included in the kernel are proprietary blobs.
 ##### System Calls
 System calls are the way that processes access the aforementioned kernel features. They are often used for opening, reading and writing files. This includes most userspace applications. When the user runs a shell command, like `ls`, the process uses system call `fork()` to create a copy of the shell. This copy then calls `exec(ls)` to start `ls`. 
+# Compiling Kernel
+### Arch Linux
+Download the kernel from the AUR using `git`. Compilation can be sped up with the following modifications:
+- Remove `make htmldocs` and `wait ${pid_docs}` in `build`
+- Remove `$pkgbase-docs` in `pkgname`
+- Run makepkg with a higher `MAKEFLAGS` value, for instance, `MAKEFLAGS='j6' makepkg -s` will enforce at least 6 GB of RAM in compiling the kernel. The more RAM the system has, the higher this value can be.
